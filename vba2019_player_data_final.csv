@@ -1,0 +1,1154 @@
+,ROUND,TEAM,OPP,#,NAME,MIN,FGM,FGA,3PM,3PA,FTM,FTA,OREB,DREB,AST,STL,BLK,TO,PF,PTS
+0,Regular 1,Danang-Dragons,Hanoi-Buffalos,44,"January, Anthony",40,14,31,3,11,2,3,3,17,0,1,0,3,2,33
+1,Regular 1,Danang-Dragons,Hanoi-Buffalos,0,"Nguyen, Horace",36,3,17,2,10,1,1,0,1,6,3,0,1,2,9
+2,Regular 1,Danang-Dragons,Hanoi-Buffalos,68,"Huy Dai, Dam",30,5,9,5,8,0,0,0,1,0,0,0,1,3,15
+3,Regular 1,Danang-Dragons,Hanoi-Buffalos,99,"Nguyen Van, Hung",28,2,6,0,0,0,0,4,5,2,0,0,1,3,4
+4,Regular 1,Danang-Dragons,Hanoi-Buffalos,7,"Ly, Austin",21,0,2,0,0,3,4,1,1,2,0,0,3,3,3
+5,Regular 1,Danang-Dragons,Hanoi-Buffalos,4,"Huynh Thanh, Tam",20,1,3,0,0,1,1,2,1,1,3,0,1,2,3
+6,Regular 1,Danang-Dragons,Hanoi-Buffalos,77,"Son Minh, Tam",9,0,1,0,1,1,2,1,1,0,0,0,0,0,1
+7,Regular 1,Danang-Dragons,Hanoi-Buffalos,69,"Bui-Quoc, Tan",8,1,2,0,0,0,0,0,1,0,1,0,0,2,2
+8,Regular 1,Danang-Dragons,Hanoi-Buffalos,5,"Mai, Thinh",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 1,Danang-Dragons,Hanoi-Buffalos,19,"Tran Dang, Hien",1,0,1,0,0,2,2,0,0,0,0,0,0,1,2
+10,Regular 1,Danang-Dragons,Hanoi-Buffalos,17,"Vu-Viet, Hoang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 1,Danang-Dragons,Hanoi-Buffalos,24,"Ho Quoc, Truong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 1,Hanoi-Buffalos,Danang-Dragons,5,"McKay, Jameel",37,8,14,0,1,2,6,9,10,1,1,5,2,1,18
+1,Regular 1,Hanoi-Buffalos,Danang-Dragons,1,"Dinh-Tien, Cong",32,8,14,2,5,3,3,1,2,1,1,0,4,2,21
+2,Regular 1,Hanoi-Buffalos,Danang-Dragons,2,"Nguyen, Henry",30,4,11,2,6,3,3,1,2,0,2,0,2,1,13
+3,Regular 1,Hanoi-Buffalos,Danang-Dragons,12,"Tu-Le, Ngoc",28,3,18,1,4,0,4,2,7,0,0,0,2,2,7
+4,Regular 1,Hanoi-Buffalos,Danang-Dragons,9,"Do-Xuan, Nam",21,2,3,0,1,0,0,0,1,0,0,0,0,2,4
+5,Regular 1,Hanoi-Buffalos,Danang-Dragons,11,"Doan, Tung",17,2,7,0,3,0,0,3,2,0,1,0,2,1,4
+6,Regular 1,Hanoi-Buffalos,Danang-Dragons,7,"Nguyen-Huynh, Hai",14,2,5,0,1,0,0,1,3,2,0,0,1,2,4
+7,Regular 1,Hanoi-Buffalos,Danang-Dragons,14,"Bui-Thai, Ha",10,2,4,0,1,0,0,0,0,1,0,0,0,0,4
+8,Regular 1,Hanoi-Buffalos,Danang-Dragons,88,"Nguyen-Quang, Anh",6,0,2,0,1,0,0,0,2,0,0,0,1,2,0
+9,Regular 1,Hanoi-Buffalos,Danang-Dragons,19,"Ngoc, Tran",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,34,"Vigilance, Michael",40,12,25,3,4,2,6,6,19,2,5,5,6,0,29
+1,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,23,"Dinh-Thanh, Tam",40,7,14,0,4,2,4,4,5,1,2,0,1,4,16
+2,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,65,"Le-Hieu, Thanh",36,3,9,2,5,1,2,1,4,3,1,0,0,3,9
+3,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,3,"Nguyen-Phu, Hoang",34,6,18,3,10,3,7,2,0,2,2,0,3,4,18
+4,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,52,"Nguyen-Hoang, Tu",30,1,7,0,4,2,2,3,1,1,1,0,2,2,4
+5,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,15,"Tang-Minh, Tri",14,0,3,0,3,0,0,1,0,0,0,0,1,3,0
+6,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,19,"Dinh Thanh, Sang",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,0,"Nguyen-Thinh, Hung",2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,14,"Huynh, Khang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,18,"Hoang-Minh, Khoa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,9,"Nguyen-Quang, Huy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 2,Can-Tho-Catfish,Hanoi-Buffalos,8,"Tran-Nguyen, Duong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,5,"McKay, Jameel",40,3,13,0,1,3,7,6,7,3,1,2,2,4,9
+1,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,1,"Dinh-Tien, Cong",34,2,7,0,3,2,2,2,7,2,1,0,2,2,6
+2,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,2,"Nguyen, Henry",34,2,7,2,6,0,0,2,3,2,1,0,4,2,6
+3,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,24,"Nguyen, Stefan",28,9,22,2,8,2,3,1,3,5,0,0,5,3,22
+4,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,12,"Tu-Le, Ngoc",27,6,12,2,3,9,9,2,7,0,3,0,2,3,23
+5,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,9,"Do-Xuan, Nam",21,2,3,1,1,0,0,0,1,1,1,0,1,2,5
+6,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,88,"Nguyen-Quang, Anh",11,1,4,0,3,0,0,0,2,0,1,0,0,1,2
+7,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,7,"Nguyen-Huynh, Hai",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,14,"Bui-Thai, Ha",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,19,"Ngoc, Tran",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,11,"Doan, Tung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 2,Hanoi-Buffalos,Can-Tho-Catfish,15,"Nguyen-Van, Vinh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 1,Hochiminh-City-Wings,Saigon-Heat,33,"Martin, Wayne",39,11,25,0,1,1,3,6,12,4,2,2,1,2,23
+1,Regular 1,Hochiminh-City-Wings,Saigon-Heat,4,"Nguyen Quang, Vinh",35,9,18,3,7,4,6,1,4,3,4,0,4,1,25
+2,Regular 1,Hochiminh-City-Wings,Saigon-Heat,3,"Soy, Michael",33,7,12,2,6,2,2,0,3,2,3,0,2,0,18
+3,Regular 1,Hochiminh-City-Wings,Saigon-Heat,13,"Pham, Tung",23,3,9,1,2,0,0,3,1,0,0,0,2,4,7
+4,Regular 1,Hochiminh-City-Wings,Saigon-Heat,19,"Cao Dac, Luan",17,2,4,0,0,0,0,3,2,1,2,0,1,1,4
+5,Regular 1,Hochiminh-City-Wings,Saigon-Heat,20,"Nguyen Minh, Chung",14,1,3,1,3,0,0,0,2,1,0,0,0,2,3
+6,Regular 1,Hochiminh-City-Wings,Saigon-Heat,16,"Cao Dac, Luan",13,1,3,0,0,0,0,1,1,0,0,0,1,4,2
+7,Regular 1,Hochiminh-City-Wings,Saigon-Heat,15,"Le Tran Dang, Huynh",11,0,1,0,1,0,0,0,1,0,0,0,3,1,0
+8,Regular 1,Hochiminh-City-Wings,Saigon-Heat,14,"Nguyen Ky, Quan",10,1,1,0,0,0,0,0,0,1,1,0,0,3,2
+9,Regular 1,Hochiminh-City-Wings,Saigon-Heat,2,"Hoang, Tu",2,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+10,Regular 1,Hochiminh-City-Wings,Saigon-Heat,1,"Nguyen Quoc, Thanh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 1,Hochiminh-City-Wings,Saigon-Heat,12,"Nguyen Quoc, Thai",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 1,Saigon-Heat,Hochiminh-City-Wings,3,"Tavarion, Nix",35,6,12,2,4,9,13,0,7,0,0,0,8,4,23
+1,Regular 1,Saigon-Heat,Hochiminh-City-Wings,8,"Tran-Dang, Khoa",31,5,15,1,5,5,8,5,4,5,3,0,2,4,16
+2,Regular 1,Saigon-Heat,Hochiminh-City-Wings,7,"Du-Minh, An",25,2,6,1,4,2,2,0,3,2,1,0,3,5,7
+3,Regular 1,Saigon-Heat,Hochiminh-City-Wings,2,"Nguyen, Richard",22,3,9,0,2,0,0,1,3,1,3,0,3,2,6
+4,Regular 1,Saigon-Heat,Hochiminh-City-Wings,98,"Trieu-Han, Minh",22,1,7,1,5,0,0,3,0,2,0,0,1,0,3
+5,Regular 1,Saigon-Heat,Hochiminh-City-Wings,30,"Waale, Tim",17,3,4,0,0,3,4,2,1,0,1,1,1,0,9
+6,Regular 1,Saigon-Heat,Hochiminh-City-Wings,12,"Nguyen-Huynh, Vinh",17,4,8,0,0,0,0,1,3,0,0,0,0,1,8
+7,Regular 1,Saigon-Heat,Hochiminh-City-Wings,52,"Huynh-Vinh, Quang",11,0,2,0,2,0,0,0,2,1,0,0,0,1,0
+8,Regular 1,Saigon-Heat,Hochiminh-City-Wings,11,"Ban-Vo, Kim",8,1,2,1,1,1,2,0,1,0,2,0,2,0,4
+9,Regular 1,Saigon-Heat,Hochiminh-City-Wings,20,"Kien, Pham-Duc",7,0,0,0,0,0,0,0,2,0,0,0,3,2,0
+10,Regular 1,Saigon-Heat,Hochiminh-City-Wings,24,"Nguyen-Truong, Nhut",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 2,Saigon-Heat,Thang-Long-Warriors,3,"Tavarion, Nix",35,11,20,1,4,5,7,2,10,6,2,4,2,3,28
+1,Regular 2,Saigon-Heat,Thang-Long-Warriors,8,"Tran Dang, Khoa",25,5,11,1,6,1,2,1,4,6,7,0,1,0,12
+2,Regular 2,Saigon-Heat,Thang-Long-Warriors,7,"Du Minh, An",21,3,5,0,2,2,4,2,1,2,1,0,1,1,8
+3,Regular 2,Saigon-Heat,Thang-Long-Warriors,98,"Trieu Han, Minh",20,2,5,1,3,0,0,1,3,1,1,0,2,2,5
+4,Regular 2,Saigon-Heat,Thang-Long-Warriors,2,"Nguyen, Richard",20,2,8,0,2,0,0,0,3,2,5,0,6,0,4
+5,Regular 2,Saigon-Heat,Thang-Long-Warriors,52,"Huynh Vinh, Quang",19,3,3,1,1,0,0,0,2,3,1,0,6,0,7
+6,Regular 2,Saigon-Heat,Thang-Long-Warriors,30,"Waale, Tim",17,3,4,0,0,2,2,2,0,0,1,0,0,1,8
+7,Regular 2,Saigon-Heat,Thang-Long-Warriors,12,"Nguyen Huynh, Vinh",14,4,4,0,0,0,0,0,3,1,0,1,1,0,8
+8,Regular 2,Saigon-Heat,Thang-Long-Warriors,11,"Ban Vo, Kim",12,2,6,1,4,0,2,0,1,1,0,0,0,1,5
+9,Regular 2,Saigon-Heat,Thang-Long-Warriors,20,"Kien, Pham Duc",11,0,2,0,0,0,0,0,3,0,1,1,1,4,0
+10,Regular 2,Saigon-Heat,Thang-Long-Warriors,24,"Nguyen Truong, Nhut",2,1,1,1,1,0,0,0,0,0,0,0,0,0,3
+0,Regular 2,Thang-Long-Warriors,Saigon-Heat,20,"Hill, Jaywuan",39,8,14,1,1,3,4,10,8,1,0,2,2,2,20
+1,Regular 2,Thang-Long-Warriors,Saigon-Heat,3,"Nguyen-Thanh, Dat",29,3,16,3,12,3,4,2,6,0,4,0,6,2,12
+2,Regular 2,Thang-Long-Warriors,Saigon-Heat,83,"Nguyen, Duong",29,4,14,0,4,0,2,3,2,5,1,0,4,1,8
+3,Regular 2,Thang-Long-Warriors,Saigon-Heat,1,"Nguyen-Xuan, Quoc",24,2,7,0,0,0,0,2,1,1,1,0,4,3,4
+4,Regular 2,Thang-Long-Warriors,Saigon-Heat,6,"Truong-Hoang, Trung",24,1,1,0,0,0,0,0,5,1,1,0,4,2,2
+5,Regular 2,Thang-Long-Warriors,Saigon-Heat,21,"Hoang-The, Hien",23,2,6,0,0,0,0,1,4,2,0,0,3,4,4
+6,Regular 2,Thang-Long-Warriors,Saigon-Heat,8,"Doan-Nhat, Quang",17,2,8,0,2,0,0,0,0,0,2,0,3,2,4
+7,Regular 2,Thang-Long-Warriors,Saigon-Heat,9,"B?ch-Cong, Trung",11,0,5,0,3,0,0,0,1,0,1,0,2,0,0
+8,Regular 2,Thang-Long-Warriors,Saigon-Heat,0,"Hong-Gia, Lan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 2,Thang-Long-Warriors,Saigon-Heat,18,"Pham-Thanh, Nam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 2,Thang-Long-Warriors,Saigon-Heat,24,"Mai-Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 2,Danang-Dragons,Saigon-Heat,44,"January, Anthony",40,9,27,3,7,1,4,5,12,1,3,1,2,2,22
+1,Regular 2,Danang-Dragons,Saigon-Heat,0,"Nguyen, Horace",39,5,16,1,5,0,0,0,1,2,0,0,2,0,11
+2,Regular 2,Danang-Dragons,Saigon-Heat,99,"Nguyen-Van, Hung",33,2,9,0,0,3,6,1,3,1,2,0,2,2,7
+3,Regular 2,Danang-Dragons,Saigon-Heat,10,"Nguyen Van, Hung",32,3,7,0,0,1,4,3,2,0,3,0,5,3,7
+4,Regular 2,Danang-Dragons,Saigon-Heat,4,"Huynh-Thanh, Tam",23,1,2,1,2,0,0,4,1,2,2,0,5,4,3
+5,Regular 2,Danang-Dragons,Saigon-Heat,69,"Bui-Quoc, Tan",10,0,3,0,1,0,0,0,1,0,0,0,2,1,0
+6,Regular 2,Danang-Dragons,Saigon-Heat,7,"Ly, Austin",9,0,2,0,1,0,0,0,2,1,2,0,0,2,0
+7,Regular 2,Danang-Dragons,Saigon-Heat,77,"Son-Minh, Tam",5,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+8,Regular 2,Danang-Dragons,Saigon-Heat,19,"Tran Dang, Hien",3,1,2,0,0,0,0,0,0,0,0,0,0,1,2
+9,Regular 2,Danang-Dragons,Saigon-Heat,68,"Huy-Dai, Dam",3,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+0,Regular 2,Saigon-Heat,Danang-Dragons,3,"Tavarion, Nix",36,11,20,1,3,1,2,4,17,3,0,1,1,2,24
+1,Regular 2,Saigon-Heat,Danang-Dragons,8,"Tran-Dang, Khoa",26,6,18,1,10,3,4,1,3,5,4,0,5,1,16
+2,Regular 2,Saigon-Heat,Danang-Dragons,2,"Nguyen, Richard",21,3,4,1,2,0,0,1,4,2,1,0,1,1,7
+3,Regular 2,Saigon-Heat,Danang-Dragons,7,"Du-Minh, An",21,1,3,0,1,1,1,0,1,5,2,0,3,1,3
+4,Regular 2,Saigon-Heat,Danang-Dragons,52,"Huynh-Vinh, Quang",17,1,5,1,5,1,2,1,0,1,2,0,2,1,4
+5,Regular 2,Saigon-Heat,Danang-Dragons,12,"Nguyen Huynh, Vinh",16,3,8,0,1,0,0,2,1,0,0,1,1,1,6
+6,Regular 2,Saigon-Heat,Danang-Dragons,11,"Ban-Vo, Kim",14,2,8,1,4,0,0,1,1,0,0,0,2,1,5
+7,Regular 2,Saigon-Heat,Danang-Dragons,30,"Waale, Tim",14,1,2,0,0,0,0,3,1,2,0,0,2,1,2
+8,Regular 2,Saigon-Heat,Danang-Dragons,98,"Trieu-Han, Minh",13,3,5,3,4,0,0,0,1,1,0,0,0,1,9
+9,Regular 2,Saigon-Heat,Danang-Dragons,20,"Kien, Pham Duc",12,1,2,0,0,0,0,2,2,0,0,0,0,2,2
+10,Regular 2,Saigon-Heat,Danang-Dragons,24,"Nguyen-Truong, Nhut",4,0,1,0,1,0,0,1,1,1,0,0,1,0,0
+0,Regular 2,Danang-Dragons,Hochiminh-City-Wings,0,"Nguyen, Horace",40,3,12,3,9,4,4,0,0,1,3,0,0,2,13
+1,Regular 2,Danang-Dragons,Hochiminh-City-Wings,44,"January, Anthony",33,11,24,0,3,4,9,3,13,0,6,0,4,2,26
+2,Regular 2,Danang-Dragons,Hochiminh-City-Wings,4,"Huynh Thanh, Tam",29,2,5,0,0,0,1,1,3,1,2,0,4,3,4
+3,Regular 2,Danang-Dragons,Hochiminh-City-Wings,68,"Huy Dai, Dam",28,1,7,1,6,0,0,0,3,1,0,0,0,1,3
+4,Regular 2,Danang-Dragons,Hochiminh-City-Wings,99,"Nguyen Van, Hung",27,3,10,0,0,1,2,1,6,1,0,2,1,1,7
+5,Regular 2,Danang-Dragons,Hochiminh-City-Wings,10,"Nguyen Van, Hung",23,3,9,0,0,1,2,2,5,0,0,0,3,5,7
+6,Regular 2,Danang-Dragons,Hochiminh-City-Wings,69,"Bui Quoc, Tan",9,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+7,Regular 2,Danang-Dragons,Hochiminh-City-Wings,19,"Tran-Dang, Hien",5,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+8,Regular 2,Danang-Dragons,Hochiminh-City-Wings,7,"Ly, Austin",2,0,1,0,0,0,0,0,1,0,0,0,1,1,0
+9,Regular 2,Danang-Dragons,Hochiminh-City-Wings,77,"Son Minh, Tam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 2,Danang-Dragons,Hochiminh-City-Wings,5,"Mai, Thinh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 2,Danang-Dragons,Hochiminh-City-Wings,24,"Ho Quoc, Truong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 2,Hochiminh-City-Wings,Danang-Dragons,33,"Martin, Wayne",38,12,21,1,3,3,7,5,18,2,0,3,3,3,28
+1,Regular 2,Hochiminh-City-Wings,Danang-Dragons,3,"Soy, Michael",36,6,18,0,7,0,0,0,1,1,2,0,1,1,12
+2,Regular 2,Hochiminh-City-Wings,Danang-Dragons,4,"Nguyen-Quang, Vinh",34,4,12,2,7,4,5,1,11,3,5,0,3,0,14
+3,Regular 2,Hochiminh-City-Wings,Danang-Dragons,13,"Pham, Tung",26,1,5,0,0,0,0,1,1,0,0,0,1,2,2
+4,Regular 2,Hochiminh-City-Wings,Danang-Dragons,19,"Nguyen Le Quoc, Cuong",22,3,6,0,2,0,0,2,2,0,0,0,2,1,6
+5,Regular 2,Hochiminh-City-Wings,Danang-Dragons,16,"Cao Dac, Luan",14,0,2,0,0,0,0,0,1,0,1,0,3,3,0
+6,Regular 2,Hochiminh-City-Wings,Danang-Dragons,20,"Nguyen Minh, Chung",10,0,2,0,1,0,0,1,0,0,0,0,1,0,0
+7,Regular 2,Hochiminh-City-Wings,Danang-Dragons,15,"Le Tran Dang, Huynh",8,1,2,1,2,0,0,0,0,0,0,0,1,1,3
+8,Regular 2,Hochiminh-City-Wings,Danang-Dragons,14,"Nguyen Ky, Quan",5,0,2,0,0,2,2,1,0,0,0,0,3,1,2
+9,Regular 2,Hochiminh-City-Wings,Danang-Dragons,12,"Nguyen-Quoc, Thai",3,0,2,0,0,0,0,1,0,0,0,0,0,1,0
+10,Regular 2,Hochiminh-City-Wings,Danang-Dragons,2,"Hoang, Tu",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 2,Hochiminh-City-Wings,Danang-Dragons,1,"Nguyen Quoc, Thanh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,5,"McKay, Jameel",40,3,7,0,1,2,8,6,7,2,0,2,0,2,8
+1,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,24,"Nguyen, Stefan",32,7,19,0,3,3,5,0,2,3,6,0,0,3,17
+2,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,1,"Dinh-Tien, Cong",32,2,7,1,5,4,4,0,1,2,0,0,0,5,9
+3,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,12,"Tu-Le, Ngoc",26,4,11,1,3,2,3,4,6,0,0,0,0,2,11
+4,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,2,"Nguyen, Henry",26,2,6,2,6,0,0,0,6,1,2,0,0,3,6
+5,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,14,"Bui-Thai, Ha",13,2,2,0,0,0,0,0,2,0,1,0,0,3,4
+6,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,9,"Do Xuan, Nam",13,1,4,0,2,0,0,0,0,0,1,0,0,1,2
+7,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,7,"Nguyen Huynh, Hai",10,1,3,1,2,1,2,0,3,0,2,0,0,0,4
+8,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,88,"Nguyen Quang, Anh",2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+9,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,11,"Doan, Tung",1,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+10,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,19,"Ngoc, Tran",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 2,Hanoi-Buffalos,Thang-Long-Warriors,15,"Nguyen Van, Vinh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,20,"Hill, Jaywuan",38,8,20,0,1,5,9,6,8,4,3,1,0,1,21
+1,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,12,"Young, Justin",38,2,9,0,2,2,2,0,5,5,2,0,0,3,6
+2,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,3,"Nguyen Thanh, Dat",31,5,9,4,6,0,0,1,4,1,2,0,0,5,14
+3,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,83,"Nguyen, Duong",31,3,6,0,1,3,7,0,2,0,2,0,0,0,9
+4,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,21,"Hoang-The, Hien",30,5,10,0,0,1,2,1,4,1,3,0,0,3,11
+5,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,1,"Nguyen Xuan, Quoc",14,1,4,0,0,1,2,2,2,0,1,0,0,5,3
+6,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,6,"Truong-Hoang, Trung",14,0,4,0,2,0,0,0,2,0,0,0,0,4,0
+7,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,8,"Doan-Nhat, Quang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,18,"Pham-Thanh, Nam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,24,"Mai-Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,9,"B?ch Cong, Trung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 2,Thang-Long-Warriors,Hanoi-Buffalos,0,"Hong Gia, Lan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,3,"Nguyen-Phu, Hoang",35,5,13,3,7,4,7,0,2,4,3,1,4,1,17
+1,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,34,"Vigilance, Michael",33,10,15,1,3,3,9,5,12,1,1,1,1,5,24
+2,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,23,"Dinh-Thanh, Tam",33,6,15,2,8,1,1,0,3,1,1,0,2,2,15
+3,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,65,"Le-Hieu, Thanh",33,0,6,0,4,1,2,0,5,3,3,0,4,3,1
+4,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,19,"Dinh-Thanh, Sang",27,0,5,0,0,0,2,1,3,4,2,0,1,1,0
+5,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,52,"Nguyen Hoang, Tu",16,3,9,2,5,0,0,1,1,0,0,0,0,1,8
+6,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,15,"Tang-Minh, Tri",9,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+7,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,14,"Huynh, Khang",6,1,2,0,0,0,0,1,2,0,0,0,1,1,2
+8,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,18,"Hoang-Minh, Khoa",2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,0,"Nguyen Thinh, Hung",2,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+10,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,8,"Tran-Nguyen, Duong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 2,Can-Tho-Catfish,Hochiminh-City-Wings,9,"Nguyen Quang, Huy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,33,"Martin, Wayne",38,12,28,0,4,4,8,7,15,2,0,1,1,2,28
+1,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,3,"Soy, Michael",35,9,20,6,12,0,0,0,5,3,1,0,3,1,24
+2,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,4,"Nguyen-Quang, Vinh",30,6,13,1,2,3,4,0,6,4,3,0,2,4,16
+3,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,16,"Cao Dac, Luan",19,2,2,0,0,1,2,2,2,1,0,0,1,1,5
+4,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,19,"Nguyen-Le-Quoc, Cuong",18,1,2,1,2,0,0,3,2,1,0,0,2,4,3
+5,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,14,"Nguyen-Ky, Quan",17,1,2,0,1,0,0,0,3,1,0,0,1,2,2
+6,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,12,"Nguyen-Quoc, Thai",12,2,6,0,0,0,2,4,1,0,0,0,1,0,4
+7,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,15,"Le-Tran-Dang, Huynh",10,2,5,0,2,0,0,0,1,2,2,0,1,1,4
+8,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,20,"Nguyen Minh, Chung",9,1,2,1,2,0,0,0,1,0,1,0,0,0,3
+9,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,13,"Pham, Tung",4,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+10,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,2,"Hoang, Tu",2,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+11,Regular 2,Hochiminh-City-Wings,Can-Tho-Catfish,1,"Nguyen-Quoc, Thanh",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+0,Regular 3,Saigon-Heat,Thang-Long-Warriors,3,"Tavarion, Nix",33,5,17,0,6,2,3,3,7,1,4,0,2,1,12
+1,Regular 3,Saigon-Heat,Thang-Long-Warriors,2,"Nguyen, Richard",28,5,7,3,4,1,3,3,5,3,5,0,2,1,14
+2,Regular 3,Saigon-Heat,Thang-Long-Warriors,8,"Tran-Dang, Khoa",27,3,18,1,11,4,4,1,3,5,2,0,3,4,11
+3,Regular 3,Saigon-Heat,Thang-Long-Warriors,7,"Du Minh, An",23,1,7,0,3,1,2,0,1,0,0,0,0,2,3
+4,Regular 3,Saigon-Heat,Thang-Long-Warriors,20,"Kien, Pham-Duc",16,3,6,0,0,0,2,1,5,0,0,0,2,4,6
+5,Regular 3,Saigon-Heat,Thang-Long-Warriors,52,"Huynh Vinh, Quang",16,0,1,0,1,0,0,0,2,1,1,0,2,0,0
+6,Regular 3,Saigon-Heat,Thang-Long-Warriors,12,"Nguyen Huynh, Vinh",15,0,3,0,0,0,0,1,1,0,0,1,0,0,0
+7,Regular 3,Saigon-Heat,Thang-Long-Warriors,30,"Waale, Tim",14,3,5,0,1,0,0,3,1,0,0,0,0,3,6
+8,Regular 3,Saigon-Heat,Thang-Long-Warriors,11,"Ban-Vo, Kim",13,4,5,2,3,0,0,2,1,0,1,0,1,0,10
+9,Regular 3,Saigon-Heat,Thang-Long-Warriors,98,"Trieu Han, Minh",11,0,2,0,1,2,2,0,3,1,0,0,0,0,2
+0,Regular 3,Thang-Long-Warriors,Saigon-Heat,12,"Young, Justin",37,4,8,0,3,2,7,0,8,3,0,0,3,4,10
+1,Regular 3,Thang-Long-Warriors,Saigon-Heat,3,"Nguyen Thanh, Dat",37,3,14,2,12,0,0,1,6,1,0,2,5,2,8
+2,Regular 3,Thang-Long-Warriors,Saigon-Heat,20,"Hill, Jaywuan",36,5,14,2,2,1,1,3,6,4,1,0,3,1,13
+3,Regular 3,Thang-Long-Warriors,Saigon-Heat,83,"Nguyen, Duong",31,1,5,0,1,0,0,0,3,1,1,0,2,4,2
+4,Regular 3,Thang-Long-Warriors,Saigon-Heat,6,"Ngo Tuan, Trung",24,5,8,2,5,0,0,1,2,2,1,0,4,2,12
+5,Regular 3,Thang-Long-Warriors,Saigon-Heat,21,"Hoang-The, Hien",10,2,4,0,0,0,0,1,2,0,0,0,0,1,4
+6,Regular 3,Thang-Long-Warriors,Saigon-Heat,9,"B?ch Cong, Trung",7,1,2,0,1,0,0,0,1,0,1,0,0,1,2
+7,Regular 3,Thang-Long-Warriors,Saigon-Heat,1,"Nguyen Xuan, Quoc",7,0,2,0,0,0,0,0,0,0,0,0,1,2,0
+8,Regular 3,Thang-Long-Warriors,Saigon-Heat,8,"Nguyen-Xuan, Quoc",6,1,4,1,2,2,2,1,0,0,0,0,0,0,5
+9,Regular 3,Thang-Long-Warriors,Saigon-Heat,0,"Hong Gia, Lan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 3,Thang-Long-Warriors,Saigon-Heat,18,"Pham-Thanh, Nam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 3,Thang-Long-Warriors,Saigon-Heat,24,"Mai-Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 3,Danang-Dragons,Hanoi-Buffalos,0,"Nguyen, Horace",40,4,10,2,7,8,9,0,4,4,0,0,4,1,18
+1,Regular 3,Danang-Dragons,Hanoi-Buffalos,44,"January, Anthony",38,10,20,1,2,6,12,6,21,3,2,2,3,3,27
+2,Regular 3,Danang-Dragons,Hanoi-Buffalos,68,"Huy-Dai, Dam",29,4,9,2,7,0,0,0,2,1,2,0,2,4,10
+3,Regular 3,Danang-Dragons,Hanoi-Buffalos,99,"Nguyen-Van, Hung",27,5,12,0,0,2,4,4,3,1,1,1,3,4,12
+4,Regular 3,Danang-Dragons,Hanoi-Buffalos,69,"Bui-Quoc, Tan",19,2,6,1,3,0,0,1,2,1,1,0,0,1,5
+5,Regular 3,Danang-Dragons,Hanoi-Buffalos,10,"Nguyen Van, Hung",18,5,10,0,0,0,2,3,2,3,2,0,1,5,10
+6,Regular 3,Danang-Dragons,Hanoi-Buffalos,4,"Huynh-Thanh, Tam",16,0,0,0,0,0,0,0,0,6,1,0,2,3,0
+7,Regular 3,Danang-Dragons,Hanoi-Buffalos,7,"Ly, Austin",8,0,3,0,1,0,0,1,0,1,0,0,0,1,0
+8,Regular 3,Danang-Dragons,Hanoi-Buffalos,77,"Son-Minh, Tam",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Regular 3,Danang-Dragons,Hanoi-Buffalos,19,"Tran-Dang, Hien",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 3,Hanoi-Buffalos,Danang-Dragons,5,"McKay, Jameel",38,8,12,0,0,2,10,10,11,1,1,5,2,5,18
+1,Regular 3,Hanoi-Buffalos,Danang-Dragons,24,"Nguyen, Stefan",33,3,16,0,3,4,11,3,2,3,3,0,5,4,10
+2,Regular 3,Hanoi-Buffalos,Danang-Dragons,2,"Nguyen, Henry",32,0,6,0,6,1,1,1,5,0,3,0,1,2,1
+3,Regular 3,Hanoi-Buffalos,Danang-Dragons,1,"Dinh Tien, Cong",31,8,15,3,9,0,0,2,2,2,2,0,3,3,19
+4,Regular 3,Hanoi-Buffalos,Danang-Dragons,12,"Tu Le, Ngoc",24,4,10,0,2,4,7,3,4,2,3,0,1,1,12
+5,Regular 3,Hanoi-Buffalos,Danang-Dragons,7,"Nguyen Huynh, Hai",10,3,5,2,3,0,0,0,1,0,0,0,1,0,8
+6,Regular 3,Hanoi-Buffalos,Danang-Dragons,9,"Do Xuan, Nam",10,0,5,0,2,0,0,0,1,0,0,0,0,2,0
+7,Regular 3,Hanoi-Buffalos,Danang-Dragons,14,"Bui Thai, Ha",9,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+8,Regular 3,Hanoi-Buffalos,Danang-Dragons,11,"Doan, Tung",5,1,1,0,0,1,1,1,1,0,0,0,2,2,3
+9,Regular 3,Hanoi-Buffalos,Danang-Dragons,88,"Nguyen Quang, Anh",2,0,3,0,1,0,0,0,0,1,0,0,0,0,0
+10,Regular 3,Hanoi-Buffalos,Danang-Dragons,19,"Ngoc, Tran",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 3,Hanoi-Buffalos,Danang-Dragons,15,"Nguyen Van, Vinh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 3,Can-Tho-Catfish,Hochiminh-City-Wings,3,"Nguyen Phu, Hoang",44,2,11,0,6,2,2,1,3,3,4,0,4,4,6
+1,Regular 3,Can-Tho-Catfish,Hochiminh-City-Wings,23,"Dinh-Thanh, Tam",40,13,25,4,11,1,2,3,8,4,1,0,1,2,31
+2,Regular 3,Can-Tho-Catfish,Hochiminh-City-Wings,65,"Le-Hieu, Thanh",31,6,12,1,5,2,4,0,7,5,4,1,5,4,15
+3,Regular 3,Can-Tho-Catfish,Hochiminh-City-Wings,52,"Nguyen Hoang, Tu",24,3,6,1,3,0,0,2,2,0,0,0,0,2,7
+4,Regular 3,Can-Tho-Catfish,Hochiminh-City-Wings,14,"Huynh, Khang",22,2,4,0,0,0,2,1,4,0,0,0,0,4,4
+5,Regular 3,Can-Tho-Catfish,Hochiminh-City-Wings,0,"Nguyen Thinh, Hung",18,1,5,0,1,0,0,0,2,2,2,0,0,2,2
+6,Regular 3,Can-Tho-Catfish,Hochiminh-City-Wings,9,"Nguyen Quang, Huy",17,5,10,0,0,0,1,2,3,0,0,0,3,2,10
+7,Regular 3,Can-Tho-Catfish,Hochiminh-City-Wings,15,"Tang-Minh, Tri",8,0,3,0,2,0,0,0,1,0,0,0,2,0,0
+8,Regular 3,Can-Tho-Catfish,Hochiminh-City-Wings,25,"Nguyen Vu Binh, Nguyen",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 3,Can-Tho-Catfish,Hochiminh-City-Wings,19,"Dinh-Thanh, Sang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 3,Can-Tho-Catfish,Hochiminh-City-Wings,34,"Vigilance, Michael",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,33,"Martin, Wayne",36,9,16,1,3,4,7,6,16,4,1,2,3,2,23
+1,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,4,"Nguyen-Quang, Vinh",34,6,11,1,3,4,8,2,3,3,3,0,2,1,17
+2,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,3,"Soy, Michael",29,4,14,2,7,4,4,3,3,4,3,0,5,1,14
+3,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,13,"Pham, Tung",26,3,9,0,1,0,0,1,6,1,0,2,1,4,6
+4,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,15,"Le-Tran-Dang, Huynh",19,5,12,1,5,0,0,0,0,0,4,0,0,2,11
+5,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,19,"Nguyen-Le-Quoc, Cuong",16,0,1,0,1,0,0,1,1,1,0,0,1,2,0
+6,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,14,"Nguyen-Ky, Quan",14,3,3,1,1,2,2,0,0,0,0,0,1,0,9
+7,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,16,"Cao Dac, Luan",8,0,2,0,0,0,4,1,0,0,0,0,1,3,0
+8,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,20,"Nguyen Minh, Chung",6,0,2,0,2,0,0,0,0,1,0,0,1,1,0
+9,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,2,"Hoang, Tu",4,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+10,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,1,"Nguyen-Quoc, Thanh",1,0,2,0,1,0,0,0,1,0,0,0,1,1,0
+11,Regular 3,Hochiminh-City-Wings,Can-Tho-Catfish,12,"Nguyen-Quoc, Thai",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+0,Regular 4,Can-Tho-Catfish,Saigon-Heat,23,"Dinh-Thanh, Tam",40,9,19,0,2,4,4,2,7,6,1,0,3,2,22
+1,Regular 4,Can-Tho-Catfish,Saigon-Heat,1,"Hamilton, DeAngelo",36,10,19,1,3,3,7,3,7,3,1,1,4,1,24
+2,Regular 4,Can-Tho-Catfish,Saigon-Heat,3,"Nguyen-Phu, Hoang",35,4,13,1,3,0,0,1,4,3,2,1,2,2,9
+3,Regular 4,Can-Tho-Catfish,Saigon-Heat,52,"Nguyen-Hoang, Tu",30,10,14,2,4,0,1,1,5,0,1,0,2,3,22
+4,Regular 4,Can-Tho-Catfish,Saigon-Heat,15,"Tang-Minh, Tri",23,1,4,1,4,0,0,1,1,1,1,1,1,0,3
+5,Regular 4,Can-Tho-Catfish,Saigon-Heat,65,"Le-Hieu, Thanh",16,0,2,0,2,0,0,0,4,3,1,0,1,3,0
+6,Regular 4,Can-Tho-Catfish,Saigon-Heat,0,"Nguyen-Thinh, Hung",13,1,2,1,2,0,0,0,2,1,2,0,4,1,3
+7,Regular 4,Can-Tho-Catfish,Saigon-Heat,14,"Huynh, Khang",3,0,1,0,0,1,2,0,2,0,0,0,0,0,1
+8,Regular 4,Can-Tho-Catfish,Saigon-Heat,25,"Nguyen-Vu-Binh, Nguyen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 4,Can-Tho-Catfish,Saigon-Heat,19,"Dinh-Thanh, Sang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 4,Can-Tho-Catfish,Saigon-Heat,9,"Nguyen-Quang, Huy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 4,Saigon-Heat,Can-Tho-Catfish,3,"Tavarion, Nix",39,10,15,2,2,3,4,5,8,2,0,0,2,4,25
+1,Regular 4,Saigon-Heat,Can-Tho-Catfish,11,"Ban-Vo, Kim",27,5,17,2,8,2,3,1,4,1,1,0,3,1,14
+2,Regular 4,Saigon-Heat,Can-Tho-Catfish,2,"Nguyen, Richard",26,6,11,2,3,1,2,1,4,3,4,0,5,1,15
+3,Regular 4,Saigon-Heat,Can-Tho-Catfish,12,"Nguyen-Huynh, Vinh",22,5,7,0,0,0,0,0,7,0,0,3,2,1,10
+4,Regular 4,Saigon-Heat,Can-Tho-Catfish,8,"Tran-Dang, Khoa",22,3,9,1,4,0,0,0,3,4,0,0,0,3,7
+5,Regular 4,Saigon-Heat,Can-Tho-Catfish,7,"Du-Minh, An",20,1,5,0,3,0,0,0,4,3,4,0,2,1,2
+6,Regular 4,Saigon-Heat,Can-Tho-Catfish,98,"Trieu-Han, Minh",16,1,4,1,2,1,2,1,1,3,1,0,0,3,4
+7,Regular 4,Saigon-Heat,Can-Tho-Catfish,30,"Waale, Tim",10,1,4,0,1,0,0,1,1,0,0,1,2,2,2
+8,Regular 4,Saigon-Heat,Can-Tho-Catfish,52,"Huynh-Vinh, Quang",7,1,2,0,0,0,0,0,0,0,1,0,1,1,2
+9,Regular 4,Saigon-Heat,Can-Tho-Catfish,20,"Kien, Pham-Duc",7,1,2,0,0,0,0,0,1,0,1,0,1,1,2
+0,Regular 4,Can-Tho-Catfish,Thang-Long-Warriors,1,"Hamilton, DeAngelo",39,4,13,0,3,6,9,1,19,2,3,1,6,1,14
+1,Regular 4,Can-Tho-Catfish,Thang-Long-Warriors,23,"Dinh-Thanh, Tam",38,9,17,5,9,6,7,4,6,1,3,0,8,2,29
+2,Regular 4,Can-Tho-Catfish,Thang-Long-Warriors,3,"Nguyen-Phu, Hoang",37,5,16,0,5,6,9,1,7,3,2,0,6,1,16
+3,Regular 4,Can-Tho-Catfish,Thang-Long-Warriors,65,"Le-Hieu, Thanh",35,8,18,2,8,0,1,3,3,1,6,1,5,5,18
+4,Regular 4,Can-Tho-Catfish,Thang-Long-Warriors,52,"Nguyen-Hoang, Tu",21,1,7,0,2,1,4,2,4,2,0,1,0,5,3
+5,Regular 4,Can-Tho-Catfish,Thang-Long-Warriors,0,"Nguyen-Thinh, Hung",16,0,3,0,0,0,0,1,1,0,1,0,0,2,0
+6,Regular 4,Can-Tho-Catfish,Thang-Long-Warriors,15,"Tang-Minh, Tri",10,0,1,0,1,1,2,0,1,0,0,0,0,2,1
+7,Regular 4,Can-Tho-Catfish,Thang-Long-Warriors,14,"Huynh, Khang",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Regular 4,Can-Tho-Catfish,Thang-Long-Warriors,25,"Nguyen-Vu-Binh, Nguyen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 4,Can-Tho-Catfish,Thang-Long-Warriors,19,"Dinh-Thanh, Sang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 4,Can-Tho-Catfish,Thang-Long-Warriors,9,"Nguyen-Quang, Huy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,12,"Young, Justin",34,4,9,1,3,0,5,0,7,5,7,0,10,2,9
+1,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,20,"Hill, Jaywuan",30,5,17,0,2,1,4,5,9,4,3,2,4,4,11
+2,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,0,"Hong Gia, Lan",22,3,9,1,4,0,1,0,3,3,0,0,3,3,7
+3,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,7,"Dang Thai, Hung",21,6,10,0,0,0,0,0,3,1,2,0,3,3,12
+4,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,83,"Nguyen, Duong",21,2,7,2,3,3,4,0,3,1,1,0,0,2,9
+5,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,3,"Nguyen Thanh, Dat",21,2,6,1,4,2,4,0,5,1,3,0,1,3,7
+6,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,1,"Nguyen Xuan, Quoc",17,3,4,0,0,0,1,2,4,0,1,0,2,4,6
+7,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,9,"B?ch Cong, Trung",15,5,8,0,2,0,1,5,0,2,1,0,1,2,10
+8,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,8,"Doan Nhat, Quang",9,2,4,1,2,0,0,0,1,0,1,0,0,1,5
+9,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,6,"Truong-Hoang, Trung",6,3,4,1,2,0,1,0,0,1,1,0,0,3,7
+10,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,18,"Pham Thanh, Nam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 4,Thang-Long-Warriors,Can-Tho-Catfish,10,"Nguyen Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 4,Hochiminh-City-Wings,Saigon-Heat,33,"Martin, Wayne",36,8,24,0,4,8,12,4,11,3,3,2,3,3,24
+1,Regular 4,Hochiminh-City-Wings,Saigon-Heat,4,"Nguyen-Quang, Vinh",35,3,7,1,2,5,6,0,2,4,3,0,5,3,12
+2,Regular 4,Hochiminh-City-Wings,Saigon-Heat,3,"Soy, Michael",33,3,14,1,7,0,0,0,3,1,3,0,3,2,7
+3,Regular 4,Hochiminh-City-Wings,Saigon-Heat,15,"Le-Tran-Dang, Huynh",23,3,6,1,3,0,0,1,1,1,2,0,4,1,7
+4,Regular 4,Hochiminh-City-Wings,Saigon-Heat,19,"Nguyen-Le-Quoc, Cuong",18,1,2,1,2,0,0,0,1,0,0,0,1,1,3
+5,Regular 4,Hochiminh-City-Wings,Saigon-Heat,14,"Nguyen-Ky, Quan",18,3,4,0,1,0,0,0,0,0,2,0,0,2,6
+6,Regular 4,Hochiminh-City-Wings,Saigon-Heat,12,"Nguyen-Quoc, Thai",16,3,4,0,0,0,0,0,1,1,0,0,1,1,6
+7,Regular 4,Hochiminh-City-Wings,Saigon-Heat,16,"Cao-Dac, Luan",15,1,4,0,0,0,0,2,2,0,0,0,4,3,2
+8,Regular 4,Hochiminh-City-Wings,Saigon-Heat,13,"Pham, Tung",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 4,Hochiminh-City-Wings,Saigon-Heat,2,"Hoang, Tu",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 4,Hochiminh-City-Wings,Saigon-Heat,20,"Nguyen-Minh, Chung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 4,Saigon-Heat,Hochiminh-City-Wings,3,"Tavarion, Nix",40,6,14,1,4,1,2,1,7,2,0,4,5,3,14
+1,Regular 4,Saigon-Heat,Hochiminh-City-Wings,2,"Nguyen, Richard",32,4,10,0,1,0,0,1,4,4,6,0,5,1,8
+2,Regular 4,Saigon-Heat,Hochiminh-City-Wings,7,"Du-Minh, An",25,1,5,0,3,0,0,1,3,4,1,0,1,2,2
+3,Regular 4,Saigon-Heat,Hochiminh-City-Wings,8,"Tran-Dang, Khoa",24,7,14,2,3,3,5,2,6,4,3,0,5,4,19
+4,Regular 4,Saigon-Heat,Hochiminh-City-Wings,30,"Waale, Tim",24,2,2,0,0,0,0,4,4,0,0,0,3,3,4
+5,Regular 4,Saigon-Heat,Hochiminh-City-Wings,11,"Ban-Vo, Kim",18,7,10,3,5,2,2,1,2,0,3,0,5,2,19
+6,Regular 4,Saigon-Heat,Hochiminh-City-Wings,98,"Trieu-Han, Minh",12,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+7,Regular 4,Saigon-Heat,Hochiminh-City-Wings,12,"Nguyen-Huynh, Vinh",8,1,2,0,0,1,2,0,2,0,0,0,0,3,3
+8,Regular 4,Saigon-Heat,Hochiminh-City-Wings,52,"Huynh-Vinh, Quang",6,0,2,0,2,0,0,0,0,0,0,0,1,0,0
+9,Regular 4,Saigon-Heat,Hochiminh-City-Wings,20,"Kien, Pham-Duc",5,1,1,0,0,0,0,0,3,0,0,0,2,1,2
+10,Regular 4,Saigon-Heat,Hochiminh-City-Wings,24,"Nguyen-Truong, Nhut",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 4,Hanoi-Buffalos,Hochiminh-City-Wings,6,"Bell, Michael",37,8,10,4,5,2,2,1,9,5,3,3,0,0,22
+1,Regular 4,Hanoi-Buffalos,Hochiminh-City-Wings,2,"Nguyen, Henry",33,5,10,3,5,2,2,1,1,3,1,1,3,3,15
+2,Regular 4,Hanoi-Buffalos,Hochiminh-City-Wings,24,"Nguyen, Stefan",29,8,14,0,0,4,6,1,6,2,1,0,1,1,20
+3,Regular 4,Hanoi-Buffalos,Hochiminh-City-Wings,12,"Tu Le, Ngoc",28,8,11,4,4,0,0,1,3,0,3,0,6,1,20
+4,Regular 4,Hanoi-Buffalos,Hochiminh-City-Wings,1,"Dinh Tien, Cong",26,2,8,0,2,4,5,1,4,2,3,0,1,1,8
+5,Regular 4,Hanoi-Buffalos,Hochiminh-City-Wings,7,"Nguyen Huynh, Hai",13,1,3,0,0,0,0,0,3,2,0,0,3,2,2
+6,Regular 4,Hanoi-Buffalos,Hochiminh-City-Wings,9,"Do Xuan, Nam",10,2,2,0,0,0,0,0,2,1,0,0,0,1,4
+7,Regular 4,Hanoi-Buffalos,Hochiminh-City-Wings,11,"Doan, Tung",10,1,3,0,0,0,0,0,0,1,0,0,1,0,2
+8,Regular 4,Hanoi-Buffalos,Hochiminh-City-Wings,14,"Bui-Thai, Ha",7,0,0,0,0,0,0,0,0,1,0,0,4,1,0
+9,Regular 4,Hanoi-Buffalos,Hochiminh-City-Wings,88,"Nguyen-Quang, Anh",1,1,1,1,1,0,0,0,1,0,0,0,1,0,3
+10,Regular 4,Hanoi-Buffalos,Hochiminh-City-Wings,19,"Ngoc, Tran",1,1,1,0,0,0,0,0,0,0,0,0,0,0,2
+0,Regular 4,Hochiminh-City-Wings,Hanoi-Buffalos,33,"Martin, Wayne",37,12,22,0,2,0,0,5,5,1,1,2,4,1,24
+1,Regular 4,Hochiminh-City-Wings,Hanoi-Buffalos,4,"Nguyen-Quang, Vinh",35,6,17,1,8,1,1,1,6,3,5,0,2,2,14
+2,Regular 4,Hochiminh-City-Wings,Hanoi-Buffalos,13,"Pham, Tung",28,1,5,1,1,3,4,3,7,1,1,0,3,3,6
+3,Regular 4,Hochiminh-City-Wings,Hanoi-Buffalos,3,"Soy, Michael",26,1,9,0,5,3,5,0,2,1,1,0,6,2,5
+4,Regular 4,Hochiminh-City-Wings,Hanoi-Buffalos,14,"Nguyen-Ky, Quan",25,1,4,1,3,2,2,0,2,4,2,0,3,2,5
+5,Regular 4,Hochiminh-City-Wings,Hanoi-Buffalos,19,"Nguyen-Le-Quoc, Cuong",13,0,3,0,1,0,0,3,1,2,1,0,1,4,0
+6,Regular 4,Hochiminh-City-Wings,Hanoi-Buffalos,15,"Le-Tran-Dang, Huynh",11,3,5,0,0,0,0,0,1,0,1,0,2,0,6
+7,Regular 4,Hochiminh-City-Wings,Hanoi-Buffalos,16,"Cao-Dac, Luan",8,1,1,0,0,0,0,0,0,0,0,0,0,1,2
+8,Regular 4,Hochiminh-City-Wings,Hanoi-Buffalos,2,"Hoang, Tu",7,2,3,1,2,0,0,0,0,0,1,0,0,0,5
+9,Regular 4,Hochiminh-City-Wings,Hanoi-Buffalos,20,"Nguyen-Minh, Chung",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 4,Hochiminh-City-Wings,Hanoi-Buffalos,1,"Nguyen-Quoc, Thanh",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,4,"Nguyen-Quang, Vinh",37,4,13,1,5,5,8,0,6,5,1,0,4,1,14
+1,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,33,"Martin, Wayne",35,3,15,0,2,2,2,6,16,3,2,2,5,4,8
+2,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,3,"Soy, Michael",31,11,20,5,9,7,8,5,2,0,4,0,2,2,34
+3,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,13,"Pham, Tung",23,1,4,0,1,0,0,0,7,0,1,1,2,4,2
+4,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,14,"Nguyen-Ky, Quan",19,2,7,0,3,1,2,1,1,0,1,1,2,4,5
+5,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,19,"Nguyen-Le-Quoc, Cuong",17,0,3,0,1,0,0,3,1,1,0,1,0,3,0
+6,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,16,"Cao-Dac, Luan",13,0,1,0,0,0,0,0,0,0,1,0,2,0,0
+7,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,15,"Le-Tran-Dang, Huynh",9,0,2,0,1,0,0,1,0,0,0,0,1,1,0
+8,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,20,"Nguyen-Minh, Chung",7,0,2,0,2,0,0,0,0,1,0,0,0,1,0
+9,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,2,"Hoang, Tu",2,1,1,1,1,0,0,0,0,0,0,0,0,0,3
+10,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,21,"Vo Duy, Trong",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+11,Regular 5,Hochiminh-City-Wings,Thang-Long-Warriors,29,"Vu-Doan-Minh, Phuong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 5,Thang-Long-Warriors,Hochiminh-City-Wings,12,"Young, Justin",38,4,9,0,2,3,7,0,9,2,4,0,6,4,11
+1,Regular 5,Thang-Long-Warriors,Hochiminh-City-Wings,20,"Hill, Jaywuan",37,10,22,1,4,5,5,3,8,1,1,1,2,4,26
+2,Regular 5,Thang-Long-Warriors,Hochiminh-City-Wings,7,"Dang-Thai, Hung",31,1,4,0,0,3,4,1,3,2,1,0,0,2,5
+3,Regular 5,Thang-Long-Warriors,Hochiminh-City-Wings,83,"Nguyen, Duong",25,3,9,1,5,3,4,0,0,1,2,0,0,3,10
+4,Regular 5,Thang-Long-Warriors,Hochiminh-City-Wings,6,"Truong-Hoang, Trung",19,0,1,0,1,3,3,0,2,2,1,0,1,1,3
+5,Regular 5,Thang-Long-Warriors,Hochiminh-City-Wings,0,"Hong-Gia, Lan",18,1,5,0,3,1,2,1,3,1,3,0,1,4,3
+6,Regular 5,Thang-Long-Warriors,Hochiminh-City-Wings,3,"Nguyen-Thanh, Dat",18,0,9,0,6,0,0,1,3,1,1,1,4,2,0
+7,Regular 5,Thang-Long-Warriors,Hochiminh-City-Wings,1,"Nguyen-Xuan, Quoc",9,2,3,0,0,0,0,2,2,1,0,0,2,0,4
+8,Regular 5,Thang-Long-Warriors,Hochiminh-City-Wings,24,"Mai-Viet, Anh",1,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+9,Regular 5,Thang-Long-Warriors,Hochiminh-City-Wings,10,"Nguyen-Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 5,Thang-Long-Warriors,Hochiminh-City-Wings,8,"Doan-Nhat, Quang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,6,"Bell, Michael",39,3,16,1,6,0,1,3,20,3,2,5,4,2,7
+1,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,2,"Nguyen, Henry",36,4,12,4,11,1,1,2,7,0,1,0,2,1,13
+2,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,12,"Tu-Le, Ngoc",34,6,11,1,4,2,4,3,3,1,3,0,2,3,15
+3,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,24,"Nguyen, Stefan",29,4,15,0,2,6,8,3,1,2,3,0,2,3,14
+4,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,11,"Doan, Tung",26,2,8,0,0,3,4,3,3,0,0,0,0,5,7
+5,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,7,"Nguyen Huynh, Hai",14,3,7,1,5,0,1,0,0,1,0,0,2,5,7
+6,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,9,"Do Xuan, Nam",13,0,3,0,1,1,2,0,2,2,0,0,2,3,1
+7,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,14,"Bui-Thai, Ha",4,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+8,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,88,"Nguyen Quang, Anh",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,1,"Dinh-Tien, Cong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,19,"Ngoc, Tran",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 5,Hanoi-Buffalos,Thang-Long-Warriors,15,"Nguyen Van, Vinh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,12,"Young, Justin",40,3,11,1,7,3,4,1,10,4,2,0,4,3,10
+1,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,20,"Hill, Jaywuan",32,6,18,0,1,9,12,4,9,2,1,1,3,3,21
+2,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,83,"Nguyen, Duong",28,2,7,1,5,2,2,0,5,0,2,0,3,1,7
+3,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,0,"Hong-Gia, Lan",26,3,9,3,7,1,2,0,2,2,1,0,2,3,10
+4,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,7,"Dang-Thai, Hung",21,5,8,0,1,3,3,1,2,2,1,0,2,3,13
+5,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,3,"Nguyen-Thanh, Dat",19,1,7,0,5,4,4,2,7,1,1,0,0,3,6
+6,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,1,"Nguyen-Xuan, Quoc",18,1,6,0,0,0,2,3,3,1,1,1,3,1,2
+7,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,9,"B?ch Cong, Trung",8,1,4,0,3,0,0,1,0,0,0,0,1,1,2
+8,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,6,"Truong-Hoang, Trung",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,24,"Mai-Viet, Anh",1,0,1,0,0,0,0,0,0,0,0,0,0,2,0
+10,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,18,"Pham-Thanh, Nam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 5,Thang-Long-Warriors,Hanoi-Buffalos,8,"Doan-Nhat, Quang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 5,Hanoi-Buffalos,Saigon-Heat,6,"Bell, Michael",40,12,21,3,7,7,8,8,15,3,1,5,3,0,34
+1,Regular 5,Hanoi-Buffalos,Saigon-Heat,1,"Dinh-Tien, Cong",32,2,12,1,4,1,2,1,2,0,2,0,5,0,6
+2,Regular 5,Hanoi-Buffalos,Saigon-Heat,12,"Tu-Le, Ngoc",29,4,12,0,1,2,2,1,3,2,0,0,1,1,10
+3,Regular 5,Hanoi-Buffalos,Saigon-Heat,24,"Nguyen, Stefan",28,6,14,0,0,1,1,1,1,3,0,0,1,4,13
+4,Regular 5,Hanoi-Buffalos,Saigon-Heat,2,"Nguyen, Henry",26,2,6,1,5,0,0,1,4,0,0,0,1,3,5
+5,Regular 5,Hanoi-Buffalos,Saigon-Heat,7,"Nguyen-Huynh, Hai",15,1,2,0,1,0,0,0,3,1,1,0,1,1,2
+6,Regular 5,Hanoi-Buffalos,Saigon-Heat,11,"Doan, Tung",13,1,3,0,1,0,0,2,1,0,1,0,2,0,2
+7,Regular 5,Hanoi-Buffalos,Saigon-Heat,14,"Bui-Thai, Ha",7,3,4,1,2,0,0,0,0,1,0,0,0,1,7
+8,Regular 5,Hanoi-Buffalos,Saigon-Heat,9,"Do-Xuan, Nam",6,1,2,0,0,0,0,0,0,0,1,0,2,0,2
+9,Regular 5,Hanoi-Buffalos,Saigon-Heat,19,"Ngoc, Tran",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 5,Hanoi-Buffalos,Saigon-Heat,88,"Nguyen-Quang, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 5,Saigon-Heat,Hanoi-Buffalos,3,"Tavarion, Nix",37,7,18,0,4,0,0,4,11,3,1,1,0,4,14
+1,Regular 5,Saigon-Heat,Hanoi-Buffalos,11,"Ban-Vo, Kim",27,6,14,5,11,0,0,1,1,4,0,0,1,0,17
+2,Regular 5,Saigon-Heat,Hanoi-Buffalos,7,"Du-Minh, An",24,3,8,1,4,0,0,1,2,6,4,1,5,3,7
+3,Regular 5,Saigon-Heat,Hanoi-Buffalos,98,"Trieu-Han, Minh",23,3,6,3,4,0,0,0,4,2,1,0,1,0,9
+4,Regular 5,Saigon-Heat,Hanoi-Buffalos,30,"Waale, Tim",21,2,4,0,0,0,0,7,0,1,0,0,0,2,4
+5,Regular 5,Saigon-Heat,Hanoi-Buffalos,8,"Tran-Dang, Khoa",20,4,12,2,6,3,3,2,5,4,2,0,4,3,13
+6,Regular 5,Saigon-Heat,Hanoi-Buffalos,2,"Nguyen, Richard",20,5,12,0,4,0,0,1,3,0,1,0,0,1,10
+7,Regular 5,Saigon-Heat,Hanoi-Buffalos,12,"Nguyen-Huynh, Vinh",13,4,8,0,0,0,0,1,1,0,0,1,0,2,8
+8,Regular 5,Saigon-Heat,Hanoi-Buffalos,20,"Kien, Pham-Duc",7,1,3,0,0,0,0,1,1,0,0,0,0,0,2
+9,Regular 5,Saigon-Heat,Hanoi-Buffalos,52,"Huynh-Vinh, Quang",2,1,2,1,2,0,0,0,0,1,0,0,0,0,3
+0,Regular 5,Can-Tho-Catfish,Danang-Dragons,23,"Dinh-Thanh, Tam",40,8,17,4,9,2,2,0,2,5,1,1,3,4,22
+1,Regular 5,Can-Tho-Catfish,Danang-Dragons,1,"Hamilton, DeAngelo",39,10,22,2,11,2,4,3,8,3,2,2,3,3,24
+2,Regular 5,Can-Tho-Catfish,Danang-Dragons,65,"Le Hieu, Thanh",37,2,9,0,3,0,2,1,5,2,0,0,4,2,4
+3,Regular 5,Can-Tho-Catfish,Danang-Dragons,3,"Nguyen Phu, Hoang",33,8,15,4,8,2,4,1,6,3,7,0,2,2,22
+4,Regular 5,Can-Tho-Catfish,Danang-Dragons,14,"Huynh, Khang",18,0,3,0,0,1,2,3,1,1,0,0,0,3,1
+5,Regular 5,Can-Tho-Catfish,Danang-Dragons,52,"Nguyen-Hoang, Tu",18,5,10,1,5,0,0,2,1,1,1,1,1,0,11
+6,Regular 5,Can-Tho-Catfish,Danang-Dragons,0,"Nguyen Thinh, Hung",7,1,1,0,0,0,0,0,0,0,3,0,1,0,2
+7,Regular 5,Can-Tho-Catfish,Danang-Dragons,15,"Tang-Minh, Tri",5,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+8,Regular 5,Can-Tho-Catfish,Danang-Dragons,25,"Nguyen Vu Binh, Nguyen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 5,Can-Tho-Catfish,Danang-Dragons,19,"Dinh Thanh, Sang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 5,Can-Tho-Catfish,Danang-Dragons,9,"Nguyen Quang, Huy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 5,Danang-Dragons,Can-Tho-Catfish,44,"January, Anthony",40,16,31,3,8,5,10,8,18,3,2,1,1,1,40
+1,Regular 5,Danang-Dragons,Can-Tho-Catfish,0,"Nguyen, Horace",35,4,14,3,6,0,0,0,1,1,1,0,6,2,11
+2,Regular 5,Danang-Dragons,Can-Tho-Catfish,68,"Huy-Dai, Dam",30,2,8,0,5,0,0,1,1,0,0,0,3,2,4
+3,Regular 5,Danang-Dragons,Can-Tho-Catfish,10,"Nguyen-Van, Hung",27,6,12,0,0,3,4,2,5,3,3,0,3,3,15
+4,Regular 5,Danang-Dragons,Can-Tho-Catfish,4,"Huynh-Thanh, Tam",27,2,6,0,1,0,0,0,3,3,2,0,2,4,4
+5,Regular 5,Danang-Dragons,Can-Tho-Catfish,99,"Nguyen Van, Hung",20,4,6,0,0,1,1,1,3,2,0,0,3,2,9
+6,Regular 5,Danang-Dragons,Can-Tho-Catfish,77,"Son-Minh, Tam",10,2,2,0,0,0,0,0,3,0,1,0,1,2,4
+7,Regular 5,Danang-Dragons,Can-Tho-Catfish,19,"Tran-Dang, Hien",6,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+8,Regular 5,Danang-Dragons,Can-Tho-Catfish,69,"Bui-Quoc, Tan",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Regular 5,Danang-Dragons,Can-Tho-Catfish,9,"Tran Hcu, Rin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 5,Danang-Dragons,Can-Tho-Catfish,5,"Mai, Thinh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 5,Danang-Dragons,Can-Tho-Catfish,17,"Vu Viet, Hoang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 6,Can-Tho-Catfish,Saigon-Heat,23,"Dinh-Thanh, Tam",38,14,21,1,4,3,4,4,5,1,1,1,0,2,32
+1,Regular 6,Can-Tho-Catfish,Saigon-Heat,1,"Hamilton, DeAngelo",38,10,17,3,6,3,5,2,11,4,1,2,9,3,26
+2,Regular 6,Can-Tho-Catfish,Saigon-Heat,65,"Le-Hieu, Thanh",32,8,13,0,2,0,1,2,2,2,3,0,2,2,16
+3,Regular 6,Can-Tho-Catfish,Saigon-Heat,3,"Nguyen-Phu, Hoang",30,2,10,2,5,0,0,2,1,4,5,1,1,1,6
+4,Regular 6,Can-Tho-Catfish,Saigon-Heat,15,"Tang-Minh, Tri",18,1,4,1,4,1,2,3,5,2,2,0,4,3,4
+5,Regular 6,Can-Tho-Catfish,Saigon-Heat,52,"Nguyen Hoang, Tu",18,1,4,0,2,1,2,0,6,2,2,0,2,1,3
+6,Regular 6,Can-Tho-Catfish,Saigon-Heat,25,"Nguyen Vu Binh, Nguyen",11,1,6,1,3,0,0,0,1,0,2,0,0,0,3
+7,Regular 6,Can-Tho-Catfish,Saigon-Heat,14,"Huynh, Khang",7,0,1,0,0,0,0,0,1,0,0,0,1,1,0
+8,Regular 6,Can-Tho-Catfish,Saigon-Heat,0,"Nguyen-Thinh, Hung",1,1,1,0,0,0,0,0,1,0,0,0,1,1,2
+9,Regular 6,Can-Tho-Catfish,Saigon-Heat,18,"Hoang-Minh, Khoa",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+10,Regular 6,Can-Tho-Catfish,Saigon-Heat,11,"Le-Hoai, Linh",1,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+11,Regular 6,Can-Tho-Catfish,Saigon-Heat,8,"Tran-Nguyen, Duong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 6,Saigon-Heat,Can-Tho-Catfish,3,"Tavarion, Nix",30,7,15,3,4,1,2,1,7,1,2,2,3,2,18
+1,Regular 6,Saigon-Heat,Can-Tho-Catfish,2,"Nguyen, Richard",28,4,15,0,3,0,0,3,4,4,5,0,3,1,8
+2,Regular 6,Saigon-Heat,Can-Tho-Catfish,8,"Tran-Dang, Khoa",25,4,15,1,5,3,4,3,5,2,3,0,3,2,12
+3,Regular 6,Saigon-Heat,Can-Tho-Catfish,98,"Trieu-Han, Minh",21,6,7,1,1,0,1,1,0,0,2,0,5,0,13
+4,Regular 6,Saigon-Heat,Can-Tho-Catfish,7,"Du-Minh, An",21,2,8,1,4,2,2,1,3,2,5,0,4,1,7
+5,Regular 6,Saigon-Heat,Can-Tho-Catfish,30,"Waale, Tim",20,3,5,0,1,2,2,4,1,1,0,1,2,0,8
+6,Regular 6,Saigon-Heat,Can-Tho-Catfish,11,"Ban-Vo, Kim",16,2,4,1,3,0,0,0,0,0,0,0,0,0,5
+7,Regular 6,Saigon-Heat,Can-Tho-Catfish,12,"Nguyen-Huynh, Vinh",14,2,4,0,0,0,0,1,4,0,1,1,3,2,4
+8,Regular 6,Saigon-Heat,Can-Tho-Catfish,20,"Kien, Pham-Duc",10,0,0,0,0,0,0,0,2,0,1,0,1,0,0
+9,Regular 6,Saigon-Heat,Can-Tho-Catfish,52,"Huynh-Vinh, Quang",9,0,3,0,3,0,0,0,1,0,0,0,1,1,0
+10,Regular 6,Saigon-Heat,Can-Tho-Catfish,24,"Nguyen-Truong, Nhut",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 6,Can-Tho-Catfish,Hochiminh-City-Wings,23,"Dinh-Thanh, Tam",40,9,16,4,7,2,4,1,12,4,0,0,0,1,24
+1,Regular 6,Can-Tho-Catfish,Hochiminh-City-Wings,1,"Hamilton, DeAngelo",40,4,12,0,3,4,6,3,9,4,5,1,7,4,12
+2,Regular 6,Can-Tho-Catfish,Hochiminh-City-Wings,65,"Le-Hieu, Thanh",32,6,16,2,7,2,3,0,4,5,4,0,4,3,16
+3,Regular 6,Can-Tho-Catfish,Hochiminh-City-Wings,3,"Nguyen-Phu, Hoang",29,5,12,2,7,1,3,0,2,4,1,0,3,3,13
+4,Regular 6,Can-Tho-Catfish,Hochiminh-City-Wings,19,"Dinh-Thanh, Sang",25,5,8,0,1,1,3,3,3,0,3,1,0,1,11
+5,Regular 6,Can-Tho-Catfish,Hochiminh-City-Wings,52,"Nguyen-Hoang, Tu",12,0,2,0,1,0,0,1,2,0,0,0,0,3,0
+6,Regular 6,Can-Tho-Catfish,Hochiminh-City-Wings,15,"Tang-Minh, Tri",11,1,3,0,2,0,0,0,1,0,0,0,1,0,2
+7,Regular 6,Can-Tho-Catfish,Hochiminh-City-Wings,0,"Nguyen-Thinh, Hung",3,1,1,0,0,0,0,0,0,0,0,0,0,0,2
+8,Regular 6,Can-Tho-Catfish,Hochiminh-City-Wings,14,"Huynh, Khang",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 6,Can-Tho-Catfish,Hochiminh-City-Wings,25,"Nguyen-Vu-Binh, Nguyen",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 6,Can-Tho-Catfish,Hochiminh-City-Wings,18,"Hoang-Minh, Khoa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,33,"Martin, Wayne",38,7,16,2,4,3,4,0,22,3,4,0,6,3,19
+1,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,3,"Soy, Michael",35,4,12,3,6,5,6,1,3,4,4,0,4,1,16
+2,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,4,"Nguyen-Quang, Vinh",34,6,11,0,2,6,6,0,4,2,0,0,0,1,18
+3,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,14,"Nguyen-Ky, Quan",21,3,5,1,2,1,2,0,3,1,0,0,1,5,8
+4,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,19,"Nguyen-Le-Quoc, Cuong",20,2,7,1,6,1,2,0,0,1,0,0,1,4,6
+5,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,12,"Nguyen-Quoc, Thai",16,2,2,0,0,0,0,1,2,0,0,1,1,1,4
+6,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,13,"Pham, Tung",11,0,1,0,0,0,0,0,0,0,0,0,1,2,0
+7,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,15,"Le-Tran-Dang, Huynh",8,0,3,0,1,0,0,0,0,0,1,0,2,0,0
+8,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,16,"Cao-Dac, Luan",6,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,2,"Hoang, Tu",4,1,2,1,2,0,0,0,1,0,0,0,0,1,3
+10,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,1,"Nguyen-Quoc, Thanh",2,0,2,0,1,0,0,0,2,0,0,0,1,0,0
+11,Regular 6,Hochiminh-City-Wings,Can-Tho-Catfish,20,"Nguyen-Minh, Chung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,33,"Martin, Wayne",42,10,20,0,4,6,7,7,12,1,1,2,5,4,26
+1,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,3,"Soy, Michael",38,7,18,3,11,1,2,0,3,1,7,0,3,1,18
+2,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,4,"Nguyen-Quang, Vinh",38,5,17,1,7,1,1,1,6,6,6,0,2,1,12
+3,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,13,"Pham, Tung",21,1,4,0,2,0,0,0,4,0,0,0,0,4,2
+4,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,19,"Nguyen-Le-Quoc, Cuong",21,0,2,0,2,0,0,0,3,0,0,0,0,2,0
+5,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,15,"Tran-Vien, Huan",19,5,7,2,4,1,2,1,1,0,2,0,4,1,13
+6,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,14,"Nguyen-Ky, Quan",16,1,4,0,0,0,0,0,0,0,1,0,2,2,2
+7,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,16,"Cao-Dac, Luan",12,1,2,0,1,1,2,0,1,0,0,0,1,0,3
+8,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,29,"Vu Doan Minh, Phuong",7,1,1,0,0,1,1,0,0,0,0,0,2,3,3
+9,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,20,"Nguyen-Minh, Chung",2,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+10,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,2,"Hoang, Tu",2,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+11,Regular 6,Hochiminh-City-Wings,Thang-Long-Warriors,1,"Nguyen-Quoc, Thanh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 6,Thang-Long-Warriors,Hochiminh-City-Wings,20,"Hill, Jaywuan",43,14,26,3,5,9,11,4,11,3,0,0,8,3,40
+1,Regular 6,Thang-Long-Warriors,Hochiminh-City-Wings,12,"Young, Justin",41,3,9,0,2,0,1,1,14,5,1,0,1,3,6
+2,Regular 6,Thang-Long-Warriors,Hochiminh-City-Wings,83,"Nguyen, Duong",32,0,2,0,1,0,0,0,0,1,4,0,2,0,0
+3,Regular 6,Thang-Long-Warriors,Hochiminh-City-Wings,7,"Dang Thai, Hung",31,5,11,0,1,2,4,0,2,0,3,0,2,5,12
+4,Regular 6,Thang-Long-Warriors,Hochiminh-City-Wings,3,"Nguyen-Thanh, Dat",26,6,14,4,8,1,2,0,0,0,1,0,2,1,17
+5,Regular 6,Thang-Long-Warriors,Hochiminh-City-Wings,0,"Hong-Gia, Lan",19,0,5,0,3,0,0,1,0,2,1,0,6,3,0
+6,Regular 6,Thang-Long-Warriors,Hochiminh-City-Wings,6,"Ngo-Tuan, Trung",18,0,1,0,1,2,2,2,1,0,0,0,0,2,2
+7,Regular 6,Thang-Long-Warriors,Hochiminh-City-Wings,9,"B?ch-Cong, Trung",10,0,1,0,1,0,0,1,2,0,0,0,1,0,0
+8,Regular 6,Thang-Long-Warriors,Hochiminh-City-Wings,24,"Mai-Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 6,Thang-Long-Warriors,Hochiminh-City-Wings,10,"Nguyen Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 6,Danang-Dragons,Hanoi-Buffalos,44,"January, Anthony",38,14,26,1,4,2,4,5,7,2,2,1,1,0,31
+1,Regular 6,Danang-Dragons,Hanoi-Buffalos,0,"Nguyen, Horace",37,2,9,0,6,0,0,0,2,5,1,0,0,1,4
+2,Regular 6,Danang-Dragons,Hanoi-Buffalos,99,"Nguyen-Van, Hung",29,4,9,0,0,0,0,1,5,0,0,1,3,0,8
+3,Regular 6,Danang-Dragons,Hanoi-Buffalos,68,"Huy-Dai, Dam",26,1,2,1,1,0,0,0,1,0,0,0,4,0,3
+4,Regular 6,Danang-Dragons,Hanoi-Buffalos,10,"Nguyen Van, Hung",21,4,9,0,0,1,3,1,1,0,0,0,4,1,9
+5,Regular 6,Danang-Dragons,Hanoi-Buffalos,69,"Bui-Quoc, Tan",17,1,5,0,3,0,0,0,1,0,1,0,1,3,2
+6,Regular 6,Danang-Dragons,Hanoi-Buffalos,4,"Huynh-Thanh, Tam",11,0,0,0,0,0,0,0,1,2,1,0,1,3,0
+7,Regular 6,Danang-Dragons,Hanoi-Buffalos,77,"Son-Minh, Tam",7,0,1,0,1,0,0,0,0,1,0,0,1,1,0
+8,Regular 6,Danang-Dragons,Hanoi-Buffalos,19,"Tran-Dang, Hien",6,0,1,0,0,0,0,0,1,0,1,0,1,1,0
+9,Regular 6,Danang-Dragons,Hanoi-Buffalos,24,"Ho-Quoc, Truong",3,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+0,Regular 6,Hanoi-Buffalos,Danang-Dragons,6,"Bell, Michael",36,11,16,2,5,0,0,5,16,1,3,1,1,0,24
+1,Regular 6,Hanoi-Buffalos,Danang-Dragons,24,"Nguyen, Stefan",32,5,10,1,4,2,3,0,4,1,0,0,3,1,13
+2,Regular 6,Hanoi-Buffalos,Danang-Dragons,12,"Tu-Le, Ngoc",31,7,15,0,4,0,0,2,3,5,1,1,4,2,14
+3,Regular 6,Hanoi-Buffalos,Danang-Dragons,1,"Dinh-Tien, Cong",30,3,10,0,1,4,4,2,4,6,3,0,3,4,10
+4,Regular 6,Hanoi-Buffalos,Danang-Dragons,2,"Nguyen, Henry",23,1,3,1,2,0,0,0,1,1,0,0,0,1,3
+5,Regular 6,Hanoi-Buffalos,Danang-Dragons,7,"Nguyen-Huynh, Hai",11,2,5,1,3,0,0,1,0,1,0,0,1,2,5
+6,Regular 6,Hanoi-Buffalos,Danang-Dragons,11,"Doan, Tung",10,1,2,0,0,0,0,1,1,0,1,0,2,1,2
+7,Regular 6,Hanoi-Buffalos,Danang-Dragons,14,"Bui-Thai, Ha",9,1,3,0,1,0,0,1,0,3,0,0,0,0,2
+8,Regular 6,Hanoi-Buffalos,Danang-Dragons,88,"Nguyen-Quang, Anh",6,1,3,0,1,1,2,0,0,0,0,0,0,1,3
+9,Regular 6,Hanoi-Buffalos,Danang-Dragons,19,"Ngoc, Tran",5,0,0,0,0,0,0,0,1,0,0,0,1,2,0
+0,Regular 7,Danang-Dragons,Thang-Long-Warriors,44,"January, Anthony",40,13,29,3,9,7,7,3,20,0,0,1,3,1,36
+1,Regular 7,Danang-Dragons,Thang-Long-Warriors,0,"Nguyen, Horace",38,4,12,4,9,0,0,1,0,1,0,0,0,1,12
+2,Regular 7,Danang-Dragons,Thang-Long-Warriors,99,"Nguyen-Van, Hung",29,4,8,0,0,1,2,0,4,0,2,0,0,3,9
+3,Regular 7,Danang-Dragons,Thang-Long-Warriors,10,"Nguyen Van, Hung",27,2,3,0,0,1,1,2,5,0,1,0,4,5,5
+4,Regular 7,Danang-Dragons,Thang-Long-Warriors,19,"Tran-Dang, Hien",19,2,5,1,3,2,2,0,3,3,0,0,2,2,7
+5,Regular 7,Danang-Dragons,Thang-Long-Warriors,68,"Huy-Dai, Dam",17,0,3,0,3,0,0,0,0,0,0,0,1,1,0
+6,Regular 7,Danang-Dragons,Thang-Long-Warriors,4,"Huynh-Thanh, Tam",13,1,4,0,2,0,0,0,1,3,0,1,2,0,2
+7,Regular 7,Danang-Dragons,Thang-Long-Warriors,69,"Bui-Quoc, Tan",10,1,3,1,3,1,2,0,0,1,0,0,1,2,4
+8,Regular 7,Danang-Dragons,Thang-Long-Warriors,77,"Son-Minh, Tam",4,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+9,Regular 7,Danang-Dragons,Thang-Long-Warriors,9,"Tran-Hcu, Rin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 7,Danang-Dragons,Thang-Long-Warriors,5,"Mai, Thinh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 7,Danang-Dragons,Thang-Long-Warriors,24,"Ho-Quoc, Truong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 7,Thang-Long-Warriors,Danang-Dragons,12,"Young, Justin",37,5,9,0,1,1,2,0,6,3,1,0,2,3,11
+1,Regular 7,Thang-Long-Warriors,Danang-Dragons,20,"Hill, Jaywuan",34,9,18,2,6,6,8,3,13,0,0,0,1,1,26
+2,Regular 7,Thang-Long-Warriors,Danang-Dragons,8,"Doan Nhat, Quang",30,2,9,1,6,2,2,0,1,0,0,0,0,1,7
+3,Regular 7,Thang-Long-Warriors,Danang-Dragons,7,"Dang-Thai, Hung",23,2,3,0,0,1,2,0,2,0,0,1,5,5,5
+4,Regular 7,Thang-Long-Warriors,Danang-Dragons,0,"Hong-Gia, Lan",20,3,8,1,2,0,0,0,1,0,2,0,4,3,7
+5,Regular 7,Thang-Long-Warriors,Danang-Dragons,9,"B?ch-Cong, Trung",19,0,2,0,2,2,2,0,1,0,1,0,1,3,2
+6,Regular 7,Thang-Long-Warriors,Danang-Dragons,6,"Ngo-Tuan, Trung",13,2,6,1,3,2,2,2,1,2,0,0,1,0,7
+7,Regular 7,Thang-Long-Warriors,Danang-Dragons,83,"Nguyen, Duong",10,1,5,1,4,2,3,0,0,0,1,0,1,1,5
+8,Regular 7,Thang-Long-Warriors,Danang-Dragons,3,"Nguyen-Thanh, Dat",7,0,2,0,1,0,0,0,3,0,1,0,0,1,0
+9,Regular 7,Thang-Long-Warriors,Danang-Dragons,10,"Nguyen-Viet, Anh",2,0,0,0,0,0,2,0,0,0,0,0,1,0,0
+10,Regular 7,Thang-Long-Warriors,Danang-Dragons,24,"Mai-Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 7,Danang-Dragons,Hochiminh-City-Wings,0,"Nguyen, Horace",38,4,15,2,11,0,0,2,3,0,0,1,4,1,10
+1,Regular 7,Danang-Dragons,Hochiminh-City-Wings,44,"January, Anthony",32,11,22,2,7,2,3,3,13,4,2,0,6,4,26
+2,Regular 7,Danang-Dragons,Hochiminh-City-Wings,99,"Nguyen-Van, Hung",31,9,15,0,0,0,2,4,4,1,0,1,0,2,18
+3,Regular 7,Danang-Dragons,Hochiminh-City-Wings,10,"Nguyen Van, Hung",30,4,6,0,0,1,1,1,4,1,2,0,3,4,9
+4,Regular 7,Danang-Dragons,Hochiminh-City-Wings,68,"Huy-Dai, Dam",26,3,8,2,7,0,0,1,0,3,1,0,0,5,8
+5,Regular 7,Danang-Dragons,Hochiminh-City-Wings,19,"Tran-Dang, Hien",15,0,2,0,1,0,0,0,2,1,1,0,3,0,0
+6,Regular 7,Danang-Dragons,Hochiminh-City-Wings,4,"Huynh-Thanh, Tam",14,0,0,0,0,0,0,0,0,2,1,0,1,3,0
+7,Regular 7,Danang-Dragons,Hochiminh-City-Wings,69,"Bui-Quoc, Tan",12,0,3,0,2,0,0,0,1,0,0,0,1,1,0
+8,Regular 7,Danang-Dragons,Hochiminh-City-Wings,77,"Son-Minh, Tam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 7,Danang-Dragons,Hochiminh-City-Wings,9,"Tran-Hcu, Rin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 7,Danang-Dragons,Hochiminh-City-Wings,5,"Mai, Thinh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 7,Danang-Dragons,Hochiminh-City-Wings,24,"Ho-Quoc, Truong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 7,Hochiminh-City-Wings,Danang-Dragons,33,"Martin, Wayne",38,9,23,0,5,4,9,4,9,0,1,1,3,3,22
+1,Regular 7,Hochiminh-City-Wings,Danang-Dragons,3,"Soy, Michael",34,7,15,2,7,5,7,0,1,0,2,0,2,1,21
+2,Regular 7,Hochiminh-City-Wings,Danang-Dragons,19,"Nguyen-Le-Quoc, Cuong",28,1,5,0,2,1,1,2,0,1,1,0,1,4,3
+3,Regular 7,Hochiminh-City-Wings,Danang-Dragons,4,"Nguyen-Quang, Vinh",26,6,12,0,1,4,6,2,5,2,2,0,3,4,16
+4,Regular 7,Hochiminh-City-Wings,Danang-Dragons,14,"Nguyen-Ky, Quan",21,0,5,0,0,2,4,3,2,0,3,0,0,0,2
+5,Regular 7,Hochiminh-City-Wings,Danang-Dragons,13,"Pham, Tung",16,4,4,1,1,0,0,1,2,0,1,1,1,2,9
+6,Regular 7,Hochiminh-City-Wings,Danang-Dragons,15,"Tran-Vien, Huan",10,0,3,0,1,0,0,0,1,0,0,0,1,0,0
+7,Regular 7,Hochiminh-City-Wings,Danang-Dragons,16,"Cao-Dac, Luan",9,0,2,0,0,0,0,1,1,1,0,0,1,0,0
+8,Regular 7,Hochiminh-City-Wings,Danang-Dragons,20,"Nguyen-Minh, Chung",6,0,2,0,2,0,0,0,2,0,0,0,0,0,0
+9,Regular 7,Hochiminh-City-Wings,Danang-Dragons,12,"Nguyen-Quoc, Thai",5,1,2,0,0,0,0,0,1,0,0,0,3,0,2
+10,Regular 7,Hochiminh-City-Wings,Danang-Dragons,2,"Hoang, Tu",1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+11,Regular 7,Hochiminh-City-Wings,Danang-Dragons,1,"Nguyen-Quoc, Thanh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 7,Saigon-Heat,Thang-Long-Warriors,3,"Tavarion, Nix",38,8,21,3,13,0,0,1,9,1,2,1,1,0,19
+1,Regular 7,Saigon-Heat,Thang-Long-Warriors,7,"Du-Minh, An",31,9,12,1,3,0,0,2,4,4,5,0,3,0,19
+2,Regular 7,Saigon-Heat,Thang-Long-Warriors,98,"Trieu-Han, Minh",31,3,11,1,5,0,0,0,3,3,2,0,1,1,7
+3,Regular 7,Saigon-Heat,Thang-Long-Warriors,2,"Nguyen, Richard",26,5,13,1,8,0,2,1,8,1,5,0,1,0,11
+4,Regular 7,Saigon-Heat,Thang-Long-Warriors,52,"Huynh-Vinh, Quang",24,0,3,0,2,1,2,0,1,1,0,0,3,3,1
+5,Regular 7,Saigon-Heat,Thang-Long-Warriors,30,"Waale, Tim",18,1,2,0,0,2,2,3,4,1,2,0,1,0,4
+6,Regular 7,Saigon-Heat,Thang-Long-Warriors,12,"Nguyen-Huynh, Vinh",17,4,6,0,1,0,0,1,3,0,0,1,2,2,8
+7,Regular 7,Saigon-Heat,Thang-Long-Warriors,20,"Kien, Pham-Duc",11,0,0,0,0,0,0,0,2,1,0,0,0,3,0
+8,Regular 7,Saigon-Heat,Thang-Long-Warriors,11,"Ban-Vo, Kim",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 7,Saigon-Heat,Thang-Long-Warriors,8,"Tran-Dang, Khoa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 7,Thang-Long-Warriors,Saigon-Heat,20,"Hill, Jaywuan",40,9,22,0,1,6,7,3,6,1,0,0,3,2,24
+1,Regular 7,Thang-Long-Warriors,Saigon-Heat,12,"Young, Justin",36,3,10,1,2,0,0,5,9,3,1,0,5,3,7
+2,Regular 7,Thang-Long-Warriors,Saigon-Heat,83,"Nguyen, Duong",29,2,8,0,3,0,0,0,0,0,1,0,1,0,4
+3,Regular 7,Thang-Long-Warriors,Saigon-Heat,0,"Hong-Gia, Lan",25,2,13,0,7,0,0,1,0,0,1,0,4,2,4
+4,Regular 7,Thang-Long-Warriors,Saigon-Heat,7,"Dang-Thai, Hung",22,3,4,0,0,0,2,2,2,1,2,0,2,2,6
+5,Regular 7,Thang-Long-Warriors,Saigon-Heat,8,"Doan-Nhat, Quang",21,2,7,1,4,0,0,0,5,0,0,0,3,1,5
+6,Regular 7,Thang-Long-Warriors,Saigon-Heat,6,"Truong-Hoang, Trung",19,1,4,0,2,0,0,0,3,0,1,0,1,1,2
+7,Regular 7,Thang-Long-Warriors,Saigon-Heat,24,"Mai-Viet, Anh",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Regular 7,Thang-Long-Warriors,Saigon-Heat,10,"Nguyen-Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 7,Thang-Long-Warriors,Saigon-Heat,9,"B?ch-Cong, Trung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 7,Thang-Long-Warriors,Saigon-Heat,3,"Nguyen-Thanh, Dat",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 7,Can-Tho-Catfish,Hanoi-Buffalos,23,"Dinh-Thanh, Tam",34,15,21,2,8,4,4,2,11,6,2,1,1,1,36
+1,Regular 7,Can-Tho-Catfish,Hanoi-Buffalos,1,"Hamilton, DeAngelo",27,8,9,0,0,3,4,2,11,6,1,2,6,2,19
+2,Regular 7,Can-Tho-Catfish,Hanoi-Buffalos,65,"Le-Hieu, Thanh",26,5,7,0,1,2,4,1,7,4,4,1,6,1,12
+3,Regular 7,Can-Tho-Catfish,Hanoi-Buffalos,3,"Nguyen-Phu, Hoang",24,4,7,2,4,4,6,0,2,8,2,0,6,3,14
+4,Regular 7,Can-Tho-Catfish,Hanoi-Buffalos,19,"Dinh-Thanh, Sang",22,8,12,1,2,5,6,4,6,7,2,0,3,2,22
+5,Regular 7,Can-Tho-Catfish,Hanoi-Buffalos,52,"Nguyen-Hoang, Tu",16,3,4,1,2,1,2,1,4,3,2,0,3,4,8
+6,Regular 7,Can-Tho-Catfish,Hanoi-Buffalos,15,"Tang-Minh, Tri",13,2,2,0,0,0,2,0,2,2,0,0,5,0,4
+7,Regular 7,Can-Tho-Catfish,Hanoi-Buffalos,0,"Nguyen-Thinh, Hung",12,4,5,0,1,0,1,0,3,3,0,0,4,2,8
+8,Regular 7,Can-Tho-Catfish,Hanoi-Buffalos,14,"Huynh, Khang",10,3,4,0,0,0,0,0,3,0,1,1,2,2,6
+9,Regular 7,Can-Tho-Catfish,Hanoi-Buffalos,25,"Nguyen-Vu-Binh, Nguyen",10,1,1,0,0,0,0,0,2,0,0,0,4,1,2
+10,Regular 7,Can-Tho-Catfish,Hanoi-Buffalos,18,"Hoang-Minh, Khoa",1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+0,Regular 7,Hanoi-Buffalos,Can-Tho-Catfish,2,"Nguyen, Henry",31,8,20,4,6,5,6,2,2,3,3,0,2,0,25
+1,Regular 7,Hanoi-Buffalos,Can-Tho-Catfish,1,"Dinh-Tien, Cong",27,7,13,1,5,2,6,2,1,0,7,0,1,4,17
+2,Regular 7,Hanoi-Buffalos,Can-Tho-Catfish,12,"Tu-Le, Ngoc",26,1,6,0,1,2,2,0,2,3,2,0,2,4,4
+3,Regular 7,Hanoi-Buffalos,Can-Tho-Catfish,14,"Bui-Thai, Ha",24,3,9,2,5,0,0,1,0,2,5,0,4,3,8
+4,Regular 7,Hanoi-Buffalos,Can-Tho-Catfish,88,"Nguyen-Quang, Anh",23,3,15,1,6,4,6,1,3,1,3,0,1,4,11
+5,Regular 7,Hanoi-Buffalos,Can-Tho-Catfish,7,"Nguyen-Huynh, Hai",17,11,16,1,3,3,4,0,1,0,1,0,2,2,26
+6,Regular 7,Hanoi-Buffalos,Can-Tho-Catfish,11,"Doan, Tung",17,2,17,1,5,1,1,6,5,3,3,0,4,4,6
+7,Regular 7,Hanoi-Buffalos,Can-Tho-Catfish,9,"Do-Xuan, Nam",16,0,6,0,4,0,0,1,0,0,2,0,2,2,0
+8,Regular 7,Hanoi-Buffalos,Can-Tho-Catfish,19,"Ngoc, Tran",14,1,2,0,1,0,0,2,0,3,0,0,1,3,2
+9,Regular 7,Hanoi-Buffalos,Can-Tho-Catfish,24,"Nguyen, Stefan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 8,Can-Tho-Catfish,Danang-Dragons,23,"Dinh-Thanh, Tam",39,13,19,3,7,2,4,4,6,2,0,2,0,2,31
+1,Regular 8,Can-Tho-Catfish,Danang-Dragons,1,"Hamilton, DeAngelo",35,9,16,2,5,3,5,4,9,4,1,2,3,3,23
+2,Regular 8,Can-Tho-Catfish,Danang-Dragons,65,"Le-Hieu, Thanh",35,7,16,2,6,0,1,2,7,6,3,2,2,3,16
+3,Regular 8,Can-Tho-Catfish,Danang-Dragons,3,"Pham-Duy, Hcu",32,8,12,2,5,2,2,0,1,1,3,0,3,1,20
+4,Regular 8,Can-Tho-Catfish,Danang-Dragons,19,"Dinh-Thanh, Sang",31,6,17,1,7,0,1,1,2,7,2,0,1,2,13
+5,Regular 8,Can-Tho-Catfish,Danang-Dragons,52,"Nguyen-Hoang, Tu",10,1,4,0,1,0,0,1,2,0,0,0,1,2,2
+6,Regular 8,Can-Tho-Catfish,Danang-Dragons,15,"Tang-Minh, Tri",6,0,1,0,1,0,0,1,2,0,0,0,0,0,0
+7,Regular 8,Can-Tho-Catfish,Danang-Dragons,14,"Huynh, Khang",4,1,3,0,0,0,0,0,0,0,0,0,0,3,2
+8,Regular 8,Can-Tho-Catfish,Danang-Dragons,25,"Nguyen-Vu-Binh, Nguyen",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 8,Can-Tho-Catfish,Danang-Dragons,0,"Nguyen-Thinh, Hung",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 8,Can-Tho-Catfish,Danang-Dragons,18,"Hoang-Minh, Khoa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 8,Can-Tho-Catfish,Danang-Dragons,9,"Nguyen-Quang, Huy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 8,Danang-Dragons,Can-Tho-Catfish,44,"January, Anthony",40,11,21,4,8,5,5,4,13,3,1,1,4,3,31
+1,Regular 8,Danang-Dragons,Can-Tho-Catfish,0,"Nguyen, Horace",39,5,19,2,10,4,4,0,5,4,1,0,4,1,16
+2,Regular 8,Danang-Dragons,Can-Tho-Catfish,10,"Nguyen-Van, Hung",35,11,19,0,0,4,7,4,7,3,0,0,2,4,26
+3,Regular 8,Danang-Dragons,Can-Tho-Catfish,99,"Nguyen Van, Hung",24,6,9,0,0,2,4,2,1,0,0,1,4,3,14
+4,Regular 8,Danang-Dragons,Can-Tho-Catfish,77,"Son-Minh, Tam",18,2,2,1,1,0,0,1,2,0,2,0,0,0,5
+5,Regular 8,Danang-Dragons,Can-Tho-Catfish,19,"Tran-Dang, Hien",17,0,3,0,2,0,0,0,1,2,1,0,0,2,0
+6,Regular 8,Danang-Dragons,Can-Tho-Catfish,4,"Huynh-Thanh, Tam",13,0,1,0,0,0,2,0,1,2,0,0,0,2,0
+7,Regular 8,Danang-Dragons,Can-Tho-Catfish,68,"Huy-Dai, Dam",11,0,2,0,2,0,0,0,0,3,0,0,2,0,0
+8,Regular 8,Danang-Dragons,Can-Tho-Catfish,69,"Bui-Quoc, Tan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 8,Danang-Dragons,Can-Tho-Catfish,24,"Ho-Quoc, Truong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,33,"Martin, Wayne",37,9,20,0,2,6,11,7,13,2,4,1,4,4,24
+1,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,4,"Nguyen-Quang, Vinh",37,3,16,0,6,3,4,1,7,4,4,0,3,2,9
+2,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,3,"Soy, Michael",32,3,10,2,7,6,7,0,1,0,1,0,2,2,14
+3,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,19,"Nguyen-Le-Quoc, Cuong",31,2,5,0,2,0,0,0,3,0,3,0,0,1,4
+4,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,14,"Nguyen-Ky, Quan",26,2,10,0,2,1,2,2,1,1,0,0,1,4,5
+5,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,13,"Pham, Tung",12,0,1,0,0,0,0,1,3,0,0,0,2,2,0
+6,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,12,"Nguyen-Quoc, Thai",11,2,4,0,1,0,0,1,1,0,0,1,1,1,4
+7,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,15,"Le-Tran-Dang, Huynh",7,0,3,0,1,0,0,1,0,0,0,0,0,0,0
+8,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,20,"Nguyen-Minh, Chung",2,0,3,0,1,0,0,1,1,0,0,0,0,0,0
+9,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,1,"Nguyen-Quoc, Thanh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,16,"Cao-Dac, Luan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 8,Hochiminh-City-Wings,Thang-Long-Warriors,29,"Vu-Doan-Minh, Phuong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 8,Thang-Long-Warriors,Hochiminh-City-Wings,20,"Hill, Jaywuan",40,11,25,3,7,5,6,2,8,1,3,4,5,4,30
+1,Regular 8,Thang-Long-Warriors,Hochiminh-City-Wings,12,"Young, Justin",40,6,14,0,0,3,3,1,11,10,1,0,7,4,15
+2,Regular 8,Thang-Long-Warriors,Hochiminh-City-Wings,3,"Nguyen-Thanh, Dat",34,1,7,1,6,1,2,0,3,0,0,0,3,0,4
+3,Regular 8,Thang-Long-Warriors,Hochiminh-City-Wings,83,"Nguyen, Duong",31,3,4,0,1,0,0,0,0,0,3,0,1,2,6
+4,Regular 8,Thang-Long-Warriors,Hochiminh-City-Wings,7,"Dang-Thai, Hung",29,2,6,0,1,5,5,2,8,0,1,0,1,1,9
+5,Regular 8,Thang-Long-Warriors,Hochiminh-City-Wings,24,"Mai-Viet, Anh",10,1,2,0,0,0,0,0,4,1,2,0,0,3,2
+6,Regular 8,Thang-Long-Warriors,Hochiminh-City-Wings,8,"Doan-Nhat, Quang",8,1,2,1,1,0,0,0,0,0,0,0,1,0,3
+7,Regular 8,Thang-Long-Warriors,Hochiminh-City-Wings,0,"Hong-Gia, Lan",5,2,4,1,2,0,0,0,0,0,0,0,1,2,5
+8,Regular 8,Thang-Long-Warriors,Hochiminh-City-Wings,9,"B?ch-Cong, Trung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 8,Thang-Long-Warriors,Hochiminh-City-Wings,6,"Truong-Hoang, Trung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 8,Thang-Long-Warriors,Hochiminh-City-Wings,10,"Nguyen-Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 8,Hanoi-Buffalos,Saigon-Heat,6,"Bell, Michael",33,11,19,0,3,4,10,4,9,2,1,2,3,2,26
+1,Regular 8,Hanoi-Buffalos,Saigon-Heat,2,"Nguyen, Henry",32,1,6,0,5,2,2,1,9,4,0,0,3,3,4
+2,Regular 8,Hanoi-Buffalos,Saigon-Heat,1,"Dinh-Tien, Cong",29,4,9,2,4,0,0,2,1,0,2,0,1,1,10
+3,Regular 8,Hanoi-Buffalos,Saigon-Heat,12,"Tu-Le, Ngoc",27,5,14,0,2,4,7,2,6,2,3,0,1,1,14
+4,Regular 8,Hanoi-Buffalos,Saigon-Heat,7,"Nguyen-Huynh, Hai",24,2,10,0,2,2,4,3,1,1,3,0,2,0,6
+5,Regular 8,Hanoi-Buffalos,Saigon-Heat,9,"Do-Xuan, Nam",19,1,4,0,1,0,0,0,3,0,1,0,3,3,2
+6,Regular 8,Hanoi-Buffalos,Saigon-Heat,88,"Nguyen-Quang, Anh",15,0,4,0,1,0,0,0,0,3,0,0,2,2,0
+7,Regular 8,Hanoi-Buffalos,Saigon-Heat,29,"Bui Nguyn, Ha",5,2,3,0,1,0,0,0,0,0,0,0,0,1,4
+8,Regular 8,Hanoi-Buffalos,Saigon-Heat,19,"Ngoc, Tran",5,1,3,0,1,0,0,0,0,0,0,0,1,0,2
+9,Regular 8,Hanoi-Buffalos,Saigon-Heat,11,"Doan, Tung",5,1,3,0,1,0,0,0,0,0,0,0,0,0,2
+0,Regular 8,Saigon-Heat,Hanoi-Buffalos,2,"Nguyen, Richard",36,6,13,3,7,1,2,1,4,7,5,1,3,0,16
+1,Regular 8,Saigon-Heat,Hanoi-Buffalos,7,"Du-Minh, An",32,6,11,1,4,2,2,2,5,5,4,0,4,4,15
+2,Regular 8,Saigon-Heat,Hanoi-Buffalos,3,"Tavarion, Nix",30,6,17,0,1,2,2,2,15,0,1,3,2,4,14
+3,Regular 8,Saigon-Heat,Hanoi-Buffalos,30,"Waale, Tim",26,5,9,0,0,1,2,8,5,1,0,1,2,3,11
+4,Regular 8,Saigon-Heat,Hanoi-Buffalos,98,"Trieu-Han, Minh",26,2,11,1,7,0,0,2,1,3,2,0,4,2,5
+5,Regular 8,Saigon-Heat,Hanoi-Buffalos,52,"Huynh-Vinh, Quang",20,3,4,1,2,0,0,1,2,4,0,0,2,1,7
+6,Regular 8,Saigon-Heat,Hanoi-Buffalos,20,"Kien, Pham-Duc",13,4,10,0,0,0,2,3,4,0,0,0,1,4,8
+7,Regular 8,Saigon-Heat,Hanoi-Buffalos,12,"Nguyen-Huynh, Vinh",12,4,13,0,0,0,0,2,1,1,0,1,0,0,8
+8,Regular 8,Saigon-Heat,Hanoi-Buffalos,11,"Ban-Vo, Kim",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 8,Hanoi-Buffalos,Hochiminh-City-Wings,6,"Bell, Michael",37,9,17,4,7,6,8,4,19,3,2,2,5,1,28
+1,Regular 8,Hanoi-Buffalos,Hochiminh-City-Wings,2,"Nguyen, Henry",31,2,5,1,3,2,2,1,4,3,1,0,4,0,7
+2,Regular 8,Hanoi-Buffalos,Hochiminh-City-Wings,1,"Dinh-Tien, Cong",28,4,12,2,5,0,0,1,2,3,0,0,0,4,10
+3,Regular 8,Hanoi-Buffalos,Hochiminh-City-Wings,12,"Tu-Le, Ngoc",27,7,14,0,1,4,6,0,7,2,1,0,4,1,18
+4,Regular 8,Hanoi-Buffalos,Hochiminh-City-Wings,19,"Ngoc, Tran",21,0,3,0,0,1,2,0,1,3,1,0,2,4,1
+5,Regular 8,Hanoi-Buffalos,Hochiminh-City-Wings,7,"Nguyen-Huynh, Hai",18,1,9,0,3,0,0,0,2,1,1,0,5,0,2
+6,Regular 8,Hanoi-Buffalos,Hochiminh-City-Wings,9,"Do-Xuan, Nam",14,4,5,1,2,1,1,1,2,0,0,0,0,0,10
+7,Regular 8,Hanoi-Buffalos,Hochiminh-City-Wings,11,"Doan, Tung",12,1,2,0,0,1,2,0,1,2,2,0,0,2,3
+8,Regular 8,Hanoi-Buffalos,Hochiminh-City-Wings,14,"Bui-Thai, Ha",7,2,2,2,2,0,2,1,1,1,0,0,0,0,6
+9,Regular 8,Hanoi-Buffalos,Hochiminh-City-Wings,88,"Nguyen-Quang, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,33,"Martin, Wayne",40,9,23,1,5,2,5,4,10,1,1,2,1,1,21
+1,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,3,"Soy, Michael",31,7,18,4,8,0,0,1,2,2,2,0,1,3,18
+2,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,4,"Nguyen-Quang, Vinh",31,6,12,2,5,1,4,0,8,6,2,0,0,2,15
+3,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,13,"Pham, Tung",22,1,5,0,0,0,0,0,2,1,2,0,4,4,2
+4,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,19,"Nguyen-Le-Quoc, Cuong",20,3,3,2,2,0,0,0,1,0,0,1,2,2,8
+5,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,14,"Nguyen-Ky, Quan",15,0,6,0,2,0,0,0,2,1,0,0,3,4,0
+6,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,20,"Nguyen-Minh, Chung",13,1,3,1,3,0,0,1,1,0,0,0,0,1,3
+7,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,12,"Nguyen-Quoc, Thai",10,1,4,0,1,0,0,2,0,2,0,1,0,0,2
+8,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,2,"Hoang, Tu",10,0,3,0,2,0,0,0,3,0,0,0,2,2,0
+9,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,16,"Cao-Dac, Luan",3,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+10,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,29,"Vu-Doan-Minh, Phuong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 8,Hochiminh-City-Wings,Hanoi-Buffalos,21,"Vo-Duy, Trong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 9,Hanoi-Buffalos,Thang-Long-Warriors,6,"Bell, Michael",40,10,23,4,7,2,4,4,19,4,0,3,0,1,26
+1,Regular 9,Hanoi-Buffalos,Thang-Long-Warriors,2,"Nguyen, Henry",31,1,7,1,5,4,6,3,4,2,0,0,0,0,7
+2,Regular 9,Hanoi-Buffalos,Thang-Long-Warriors,1,"Dinh-Tien, Cong",29,4,11,1,4,0,0,2,4,3,1,0,0,2,9
+3,Regular 9,Hanoi-Buffalos,Thang-Long-Warriors,12,"Tu Le, Ngoc",26,2,13,1,5,4,5,1,3,1,0,0,0,2,9
+4,Regular 9,Hanoi-Buffalos,Thang-Long-Warriors,19,"Ngoc, Tran",23,3,6,0,0,1,2,1,1,1,0,0,0,5,7
+5,Regular 9,Hanoi-Buffalos,Thang-Long-Warriors,7,"Nguyen-Huynh, Hai",19,5,6,1,1,1,2,0,5,1,1,1,0,0,12
+6,Regular 9,Hanoi-Buffalos,Thang-Long-Warriors,9,"Do-Xuan, Nam",11,0,1,0,0,0,0,0,3,2,0,0,0,1,0
+7,Regular 9,Hanoi-Buffalos,Thang-Long-Warriors,11,"Doan, Tung",10,3,6,0,2,2,4,2,1,0,0,0,0,1,8
+8,Regular 9,Hanoi-Buffalos,Thang-Long-Warriors,14,"Bui Thai, Ha",7,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+9,Regular 9,Hanoi-Buffalos,Thang-Long-Warriors,88,"Nguyen-Quang, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 9,Hanoi-Buffalos,Thang-Long-Warriors,29,"Bui Nguyn, Ha",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,20,"Hill, Jaywuan",40,5,12,1,2,3,6,4,4,2,1,1,0,1,14
+1,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,12,"Young, Justin",40,6,15,1,1,1,2,0,9,6,2,0,0,3,14
+2,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,3,"Nguyen-Thanh, Dat",27,5,15,3,11,2,2,0,3,1,1,0,0,0,15
+3,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,7,"Dang-Thai, Hung",21,6,14,0,0,2,2,6,1,0,1,0,0,5,14
+4,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,0,"Hong-Gia, Lan",21,1,9,1,7,0,0,1,3,2,2,0,0,2,3
+5,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,83,"Nguyen, Duong",20,3,8,0,2,0,0,0,6,0,0,0,0,4,6
+6,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,8,"Doan-Nhat, Quang",16,2,6,2,5,0,0,0,1,0,0,0,0,3,6
+7,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,6,"Truong-Hoang, Trung",9,0,4,0,4,0,0,0,3,2,0,0,0,1,0
+8,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,24,"Mai-Viet, Anh",2,0,2,0,0,0,0,0,1,0,0,0,0,1,0
+9,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,18,"Pham-Thanh, Nam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,21,"Hoang-The, Hien",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 9,Thang-Long-Warriors,Hanoi-Buffalos,9,"B?ch-Cong, Trung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 9,Danang-Dragons,Thang-Long-Warriors,0,"Nguyen, Horace",40,6,12,3,5,0,0,0,3,4,1,0,5,2,15
+1,Regular 9,Danang-Dragons,Thang-Long-Warriors,44,"January, Anthony",40,5,20,1,6,3,4,4,11,2,7,1,5,3,14
+2,Regular 9,Danang-Dragons,Thang-Long-Warriors,99,"Nguyen-Van, Hung",32,6,14,0,0,0,0,1,2,0,1,2,3,1,12
+3,Regular 9,Danang-Dragons,Thang-Long-Warriors,10,"Nguyen Van, Hung",28,3,6,0,0,0,1,0,10,2,0,1,5,4,6
+4,Regular 9,Danang-Dragons,Thang-Long-Warriors,77,"Son-Minh, Tam",27,2,6,2,5,0,0,1,0,0,1,0,1,2,6
+5,Regular 9,Danang-Dragons,Thang-Long-Warriors,4,"Huynh-Thanh, Tam",10,2,3,1,2,0,0,1,0,1,0,0,0,0,5
+6,Regular 9,Danang-Dragons,Thang-Long-Warriors,19,"Tran-Dang, Hien",9,1,5,0,2,0,0,0,0,1,0,0,1,3,2
+7,Regular 9,Danang-Dragons,Thang-Long-Warriors,68,"Huy-Dai, Dam",8,2,3,2,3,0,0,0,1,0,0,1,0,0,6
+8,Regular 9,Danang-Dragons,Thang-Long-Warriors,69,"Bui-Quoc, Tan",2,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+9,Regular 9,Danang-Dragons,Thang-Long-Warriors,9,"Tran-Hcu, Rin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 9,Danang-Dragons,Thang-Long-Warriors,5,"Mai, Thinh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 9,Danang-Dragons,Thang-Long-Warriors,24,"Ho-Quoc, Truong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 9,Thang-Long-Warriors,Danang-Dragons,20,"Hill, Jaywuan",40,15,27,2,4,2,4,5,9,1,3,1,3,1,34
+1,Regular 9,Thang-Long-Warriors,Danang-Dragons,12,"Young, Justin",40,4,10,2,4,1,5,2,7,3,4,2,3,1,11
+2,Regular 9,Thang-Long-Warriors,Danang-Dragons,7,"Dang-Thai, Hung",31,7,11,0,0,4,7,4,6,2,2,2,3,0,18
+3,Regular 9,Thang-Long-Warriors,Danang-Dragons,3,"Nguyen-Thanh, Dat",30,3,9,1,4,1,2,0,8,4,3,0,6,3,8
+4,Regular 9,Thang-Long-Warriors,Danang-Dragons,83,"Nguyen, Duong",23,1,5,0,3,0,0,0,0,1,1,1,1,2,2
+5,Regular 9,Thang-Long-Warriors,Danang-Dragons,0,"Hong-Gia, Lan",22,2,6,2,3,0,0,0,1,2,0,0,0,1,6
+6,Regular 9,Thang-Long-Warriors,Danang-Dragons,24,"Mai-Viet, Anh",6,2,2,0,0,0,1,1,1,2,0,0,1,0,4
+7,Regular 9,Thang-Long-Warriors,Danang-Dragons,6,"Truong-Hoang, Trung",5,0,2,0,1,0,0,0,1,0,0,0,1,1,0
+8,Regular 9,Thang-Long-Warriors,Danang-Dragons,21,"Hoang-The, Hien",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 9,Thang-Long-Warriors,Danang-Dragons,18,"Pham-Thanh, Nam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 9,Thang-Long-Warriors,Danang-Dragons,9,"B?ch-Cong, Trung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 9,Can-Tho-Catfish,Saigon-Heat,1,"Hamilton, DeAngelo",40,11,24,6,8,6,11,6,9,4,0,2,4,1,34
+1,Regular 9,Can-Tho-Catfish,Saigon-Heat,23,"Dinh-Thanh, Tam",40,10,18,1,3,0,0,1,5,3,3,0,0,2,21
+2,Regular 9,Can-Tho-Catfish,Saigon-Heat,3,"Nguyen-Phu, Hoang",35,6,15,1,7,5,6,1,2,3,4,0,5,2,18
+3,Regular 9,Can-Tho-Catfish,Saigon-Heat,65,"Le-Hieu, Thanh",32,0,6,0,2,2,2,0,4,0,4,0,1,3,2
+4,Regular 9,Can-Tho-Catfish,Saigon-Heat,19,"Dinh-Thanh, Sang",30,5,14,3,8,0,0,1,4,3,3,0,1,3,13
+5,Regular 9,Can-Tho-Catfish,Saigon-Heat,52,"Nguyen-Hoang, Tu",18,0,4,0,3,0,2,1,2,0,1,1,0,1,0
+6,Regular 9,Can-Tho-Catfish,Saigon-Heat,14,"Huynh, Khang",2,1,1,0,0,0,0,1,0,0,0,0,0,0,2
+7,Regular 9,Can-Tho-Catfish,Saigon-Heat,25,"Nguyen-Vu-Binh, Nguyen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Regular 9,Can-Tho-Catfish,Saigon-Heat,0,"Nguyen-Thinh, Hung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 9,Can-Tho-Catfish,Saigon-Heat,15,"Tang-Minh, Tri",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 9,Saigon-Heat,Can-Tho-Catfish,3,"Tavarion, Nix",40,5,17,1,6,5,6,3,12,0,2,1,5,4,16
+1,Regular 9,Saigon-Heat,Can-Tho-Catfish,2,"Nguyen, Richard",35,8,20,2,9,0,0,2,10,9,2,1,5,1,18
+2,Regular 9,Saigon-Heat,Can-Tho-Catfish,11,"Ban-Vo, Kim",31,6,13,1,6,0,1,1,0,2,0,0,3,1,13
+3,Regular 9,Saigon-Heat,Can-Tho-Catfish,7,"Du-Minh, An",29,7,12,0,2,4,4,2,3,2,2,0,3,2,18
+4,Regular 9,Saigon-Heat,Can-Tho-Catfish,12,"Nguyen-Huynh, Vinh",21,3,6,0,0,0,0,4,6,2,0,3,0,1,6
+5,Regular 9,Saigon-Heat,Can-Tho-Catfish,30,"Waale, Tim",18,2,5,0,0,0,0,2,1,0,1,0,3,3,4
+6,Regular 9,Saigon-Heat,Can-Tho-Catfish,98,"Trieu-Han, Minh",13,1,4,0,2,0,0,0,1,0,0,0,2,1,2
+7,Regular 9,Saigon-Heat,Can-Tho-Catfish,52,"Huynh-Vinh, Quang",10,0,2,0,1,0,0,0,0,2,0,0,0,3,0
+8,Regular 9,Saigon-Heat,Can-Tho-Catfish,20,"Kien, Pham-Duc",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+0,Regular 9,Can-Tho-Catfish,Danang-Dragons,1,"Hamilton, DeAngelo",40,10,15,1,4,6,8,2,13,1,1,0,3,2,27
+1,Regular 9,Can-Tho-Catfish,Danang-Dragons,23,"Dinh-Thanh, Tam",40,8,19,2,8,2,2,2,2,3,0,0,0,0,20
+2,Regular 9,Can-Tho-Catfish,Danang-Dragons,19,"Dinh-Thanh, Sang",34,3,12,1,6,2,2,3,1,1,1,1,3,1,9
+3,Regular 9,Can-Tho-Catfish,Danang-Dragons,3,"Pham-Duy, Hcu",33,2,11,0,3,2,4,0,5,3,2,0,0,3,6
+4,Regular 9,Can-Tho-Catfish,Danang-Dragons,65,"Le-Hieu, Thanh",30,3,5,1,1,1,2,2,4,2,0,0,2,1,8
+5,Regular 9,Can-Tho-Catfish,Danang-Dragons,52,"Nguyen-Hoang, Tu",12,2,5,0,3,0,0,0,0,2,0,0,0,1,4
+6,Regular 9,Can-Tho-Catfish,Danang-Dragons,15,"Tang-Minh, Tri",5,0,3,0,2,0,0,0,1,0,0,0,0,0,0
+7,Regular 9,Can-Tho-Catfish,Danang-Dragons,25,"Nguyen-Vu-Binh, Nguyen",2,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+8,Regular 9,Can-Tho-Catfish,Danang-Dragons,0,"Nguyen-Thinh, Hung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 9,Can-Tho-Catfish,Danang-Dragons,14,"Huynh, Khang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 9,Danang-Dragons,Can-Tho-Catfish,44,"January, Anthony",40,10,20,2,3,4,4,5,15,4,1,1,2,3,26
+1,Regular 9,Danang-Dragons,Can-Tho-Catfish,0,"Nguyen, Horace",40,4,12,1,4,0,0,2,2,4,2,0,1,1,9
+2,Regular 9,Danang-Dragons,Can-Tho-Catfish,77,"Son-Minh, Tam",32,7,11,1,4,1,2,0,3,2,1,0,1,2,16
+3,Regular 9,Danang-Dragons,Can-Tho-Catfish,10,"Nguyen-Van, Hung",31,8,11,0,0,0,0,0,2,3,1,1,2,4,16
+4,Regular 9,Danang-Dragons,Can-Tho-Catfish,68,"Huy-Dai, Dam",29,2,7,2,6,0,0,1,1,1,0,0,0,0,6
+5,Regular 9,Danang-Dragons,Can-Tho-Catfish,99,"Nguyen Van, Hung",19,2,5,0,0,0,2,0,1,1,1,0,3,3,4
+6,Regular 9,Danang-Dragons,Can-Tho-Catfish,19,"Tran-Dang, Hien",7,1,3,0,1,0,0,0,0,0,0,0,0,3,2
+7,Regular 9,Danang-Dragons,Can-Tho-Catfish,9,"Tran-Hcu, Rin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Regular 9,Danang-Dragons,Can-Tho-Catfish,5,"Mai, Thinh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 9,Danang-Dragons,Can-Tho-Catfish,24,"Ho-Quoc, Truong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 9,Danang-Dragons,Can-Tho-Catfish,4,"Huynh-Thanh, Tam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 9,Danang-Dragons,Can-Tho-Catfish,69,"Bui-Quoc, Tan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 10,Danang-Dragons,Thang-Long-Warriors,44,"January, Anthony",40,8,23,1,8,9,13,6,11,1,3,2,5,2,26
+1,Regular 10,Danang-Dragons,Thang-Long-Warriors,10,"Nguyen-Van, Hung",38,3,7,0,0,1,1,1,4,3,1,2,2,4,7
+2,Regular 10,Danang-Dragons,Thang-Long-Warriors,0,"Nguyen, Horace",38,2,11,0,5,0,0,0,2,1,1,0,4,0,4
+3,Regular 10,Danang-Dragons,Thang-Long-Warriors,99,"Nguyen Van, Hung",32,6,13,0,0,2,4,3,2,0,0,0,1,1,14
+4,Regular 10,Danang-Dragons,Thang-Long-Warriors,68,"Huy-Dai, Dam",20,0,8,0,8,0,0,0,3,1,0,0,0,0,0
+5,Regular 10,Danang-Dragons,Thang-Long-Warriors,19,"Tran-Dang, Hien",9,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+6,Regular 10,Danang-Dragons,Thang-Long-Warriors,77,"Son-Minh, Tam",8,0,1,0,1,0,0,0,0,0,2,0,2,1,0
+7,Regular 10,Danang-Dragons,Thang-Long-Warriors,69,"Bui-Quoc, Tan",7,0,2,0,2,0,0,0,1,0,1,0,0,0,0
+8,Regular 10,Danang-Dragons,Thang-Long-Warriors,4,"Huynh-Thanh, Tam",3,0,2,0,0,0,0,0,0,0,0,0,3,1,0
+9,Regular 10,Danang-Dragons,Thang-Long-Warriors,17,"Vu-Viet, Hoang",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 10,Thang-Long-Warriors,Danang-Dragons,12,"Young, Justin",37,1,4,0,0,0,0,0,7,7,5,0,3,4,2
+1,Regular 10,Thang-Long-Warriors,Danang-Dragons,20,"Hill, Jaywuan",36,11,20,2,3,6,6,10,12,1,0,1,3,0,30
+2,Regular 10,Thang-Long-Warriors,Danang-Dragons,3,"Nguyen-Thanh, Dat",32,7,20,4,13,2,2,3,3,2,2,1,3,3,20
+3,Regular 10,Thang-Long-Warriors,Danang-Dragons,83,"Nguyen, Duong",22,5,9,1,3,2,3,0,1,1,2,0,1,0,13
+4,Regular 10,Thang-Long-Warriors,Danang-Dragons,21,"Hoang-The, Hien",20,3,8,0,1,0,0,2,4,0,0,1,1,4,6
+5,Regular 10,Thang-Long-Warriors,Danang-Dragons,0,"Hong-Gia, Lan",19,1,4,1,3,0,0,0,2,5,2,0,2,0,3
+6,Regular 10,Thang-Long-Warriors,Danang-Dragons,7,"Dang-Thai, Hung",17,2,6,0,0,0,0,0,6,0,2,1,3,2,4
+7,Regular 10,Thang-Long-Warriors,Danang-Dragons,24,"Mai-Viet, Anh",3,0,1,0,0,0,0,2,2,1,0,0,0,1,0
+8,Regular 10,Thang-Long-Warriors,Danang-Dragons,8,"Doan-Nhat, Quang",3,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+9,Regular 10,Thang-Long-Warriors,Danang-Dragons,1,"Nguyen Xuan, Quoc",2,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+10,Regular 10,Thang-Long-Warriors,Danang-Dragons,6,"Ngo-Tuan, Trung",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 10,Thang-Long-Warriors,Danang-Dragons,18,"Pham-Thanh, Nam",1,1,3,0,0,0,0,0,0,0,0,0,0,0,2
+0,Regular 10,Hanoi-Buffalos,Saigon-Heat,6,"Bell, Michael",40,6,21,1,6,5,8,1,18,2,1,2,3,0,18
+1,Regular 10,Hanoi-Buffalos,Saigon-Heat,2,"Nguyen, Henry",32,7,13,5,8,0,0,0,5,0,2,0,2,3,19
+2,Regular 10,Hanoi-Buffalos,Saigon-Heat,1,"Dinh-Tien, Cong",31,3,8,0,3,3,4,1,3,0,2,0,0,2,9
+3,Regular 10,Hanoi-Buffalos,Saigon-Heat,19,"Ngoc, Tran",26,3,7,0,0,0,0,2,0,2,1,0,0,3,6
+4,Regular 10,Hanoi-Buffalos,Saigon-Heat,12,"Tu-Le, Ngoc",22,2,9,0,2,1,2,4,4,3,1,0,2,1,5
+5,Regular 10,Hanoi-Buffalos,Saigon-Heat,7,"Nguyen-Huynh, Hai",20,1,3,0,0,4,6,0,2,1,0,0,1,1,6
+6,Regular 10,Hanoi-Buffalos,Saigon-Heat,11,"Doan, Tung",13,0,2,0,2,0,0,0,4,0,0,2,3,4,0
+7,Regular 10,Hanoi-Buffalos,Saigon-Heat,14,"Bui-Thai, Ha",7,1,2,0,1,0,0,0,0,1,0,0,2,0,2
+8,Regular 10,Hanoi-Buffalos,Saigon-Heat,88,"Nguyen-Quang, Anh",5,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+9,Regular 10,Hanoi-Buffalos,Saigon-Heat,9,"Do-Xuan, Nam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 10,Saigon-Heat,Hanoi-Buffalos,3,"Tavarion, Nix",38,11,34,1,7,5,9,6,22,4,0,2,0,4,28
+1,Regular 10,Saigon-Heat,Hanoi-Buffalos,11,"Ban-Vo, Kim",35,3,14,0,7,4,4,3,5,0,1,0,3,2,10
+2,Regular 10,Saigon-Heat,Hanoi-Buffalos,7,"Du-Minh, An",34,6,11,0,3,0,0,2,3,1,2,0,2,4,12
+3,Regular 10,Saigon-Heat,Hanoi-Buffalos,98,"Trieu-Han, Minh",24,2,8,0,3,0,0,0,0,0,3,0,4,0,4
+4,Regular 10,Saigon-Heat,Hanoi-Buffalos,52,"Huynh-Vinh, Quang",24,0,4,0,2,0,0,0,0,3,0,0,3,1,0
+5,Regular 10,Saigon-Heat,Hanoi-Buffalos,30,"Waale, Tim",22,2,5,0,0,1,2,3,3,2,1,0,2,5,5
+6,Regular 10,Saigon-Heat,Hanoi-Buffalos,12,"Nguyen-Huynh, Vinh",15,1,5,0,1,0,0,2,2,0,0,1,1,1,2
+7,Regular 10,Saigon-Heat,Hanoi-Buffalos,20,"Kien, Pham-Duc",4,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+0,Regular 10,Hochiminh-City-Wings,Saigon-Heat,33,"Martin, Wayne",40,14,31,0,1,2,5,12,7,1,2,0,2,3,30
+1,Regular 10,Hochiminh-City-Wings,Saigon-Heat,4,"Nguyen-Quang, Vinh",35,4,9,2,5,6,8,2,11,7,4,0,5,2,16
+2,Regular 10,Hochiminh-City-Wings,Saigon-Heat,3,"Soy, Michael",27,3,13,1,7,0,0,2,2,1,3,0,1,0,7
+3,Regular 10,Hochiminh-City-Wings,Saigon-Heat,19,"Nguyen-Le-Quoc, Cuong",26,3,9,3,6,0,0,4,1,0,3,0,4,2,9
+4,Regular 10,Hochiminh-City-Wings,Saigon-Heat,14,"Nguyen-Ky, Quan",25,2,9,1,4,0,0,2,1,1,2,1,1,1,5
+5,Regular 10,Hochiminh-City-Wings,Saigon-Heat,13,"Pham, Tung",19,2,8,1,6,0,2,0,1,1,1,0,3,5,5
+6,Regular 10,Hochiminh-City-Wings,Saigon-Heat,15,"Le-Tran-Dang, Huynh",12,0,2,0,1,1,2,2,0,1,2,0,0,2,1
+7,Regular 10,Hochiminh-City-Wings,Saigon-Heat,20,"Nguyen-Minh, Chung",7,1,3,0,2,0,0,1,0,0,0,0,0,1,2
+8,Regular 10,Hochiminh-City-Wings,Saigon-Heat,12,"Nguyen-Quoc, Thai",6,2,3,0,0,0,0,2,0,0,0,0,0,1,4
+9,Regular 10,Hochiminh-City-Wings,Saigon-Heat,29,"Vu-Doan-Minh, Phuong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 10,Hochiminh-City-Wings,Saigon-Heat,16,"Cao-Dac, Luan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 10,Hochiminh-City-Wings,Saigon-Heat,2,"Hoang, Tu",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 10,Saigon-Heat,Hochiminh-City-Wings,3,"Tavarion, Nix",39,5,16,3,10,7,8,2,8,1,2,4,3,5,20
+1,Regular 10,Saigon-Heat,Hochiminh-City-Wings,11,"Ban-Vo, Kim",33,5,14,2,7,2,2,1,3,2,0,0,8,1,14
+2,Regular 10,Saigon-Heat,Hochiminh-City-Wings,7,"Du-Minh, An",33,3,7,0,2,0,0,1,1,5,4,1,7,3,6
+3,Regular 10,Saigon-Heat,Hochiminh-City-Wings,52,"Huynh-Vinh, Quang",25,1,4,1,3,0,0,0,3,1,1,0,1,0,3
+4,Regular 10,Saigon-Heat,Hochiminh-City-Wings,98,"Trieu-Han, Minh",24,2,8,0,3,0,0,1,2,2,2,0,3,3,4
+5,Regular 10,Saigon-Heat,Hochiminh-City-Wings,30,"Waale, Tim",23,4,7,0,0,2,2,5,4,1,1,0,1,1,10
+6,Regular 10,Saigon-Heat,Hochiminh-City-Wings,12,"Nguyen-Huynh, Vinh",11,3,3,0,0,0,2,1,3,0,0,2,0,1,6
+7,Regular 10,Saigon-Heat,Hochiminh-City-Wings,20,"Kien, Pham-Duc",8,0,2,0,0,2,2,0,1,0,0,0,1,1,2
+0,Regular 10,Can-Tho-Catfish,Hanoi-Buffalos,23,"Dinh-Thanh, Tam",40,12,18,3,5,0,0,1,6,0,7,0,3,0,27
+1,Regular 10,Can-Tho-Catfish,Hanoi-Buffalos,1,"Hamilton, DeAngelo",39,8,25,3,11,2,3,6,14,2,1,2,3,4,21
+2,Regular 10,Can-Tho-Catfish,Hanoi-Buffalos,3,"Nguyen-Phu, Hoang",35,3,14,0,3,1,2,0,3,5,6,0,8,1,7
+3,Regular 10,Can-Tho-Catfish,Hanoi-Buffalos,19,"Dinh-Thanh, Sang",27,3,9,1,2,0,0,2,4,1,5,0,4,2,7
+4,Regular 10,Can-Tho-Catfish,Hanoi-Buffalos,65,"Le-Hieu, Thanh",26,0,9,0,5,0,0,0,2,3,0,0,3,5,0
+5,Regular 10,Can-Tho-Catfish,Hanoi-Buffalos,15,"Tang-Minh, Tri",16,1,6,0,5,2,4,2,2,2,0,0,1,2,4
+6,Regular 10,Can-Tho-Catfish,Hanoi-Buffalos,52,"Nguyen-Hoang, Tu",8,1,4,0,2,0,1,0,0,1,0,0,0,3,2
+7,Regular 10,Can-Tho-Catfish,Hanoi-Buffalos,14,"Huynh, Khang",4,1,3,0,0,0,0,0,1,0,0,0,0,0,2
+8,Regular 10,Can-Tho-Catfish,Hanoi-Buffalos,25,"Nguyen-Vu-Binh, Nguyen",1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+9,Regular 10,Can-Tho-Catfish,Hanoi-Buffalos,18,"Hoang-Minh, Khoa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Regular 10,Can-Tho-Catfish,Hanoi-Buffalos,0,"Nguyen-Thinh, Hung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 10,Hanoi-Buffalos,Can-Tho-Catfish,6,"Bell, Michael",40,10,26,0,5,5,8,8,28,1,5,3,8,1,25
+1,Regular 10,Hanoi-Buffalos,Can-Tho-Catfish,1,"Dinh-Tien, Cong",32,4,9,0,4,5,5,2,3,0,2,0,4,4,13
+2,Regular 10,Hanoi-Buffalos,Can-Tho-Catfish,2,"Nguyen, Henry",32,2,9,0,7,2,2,1,2,0,0,0,1,2,6
+3,Regular 10,Hanoi-Buffalos,Can-Tho-Catfish,12,"Tu-Le, Ngoc",30,5,15,1,4,0,0,1,5,2,5,0,6,2,11
+4,Regular 10,Hanoi-Buffalos,Can-Tho-Catfish,19,"Ngoc, Tran",28,1,7,0,3,0,0,4,1,0,0,1,2,2,2
+5,Regular 10,Hanoi-Buffalos,Can-Tho-Catfish,7,"Nguyen-Huynh, Hai",17,1,4,0,2,1,2,0,1,3,2,0,4,1,3
+6,Regular 10,Hanoi-Buffalos,Can-Tho-Catfish,11,"Doan, Tung",9,1,4,0,1,0,0,0,2,1,0,0,3,1,2
+7,Regular 10,Hanoi-Buffalos,Can-Tho-Catfish,9,"Do-Xuan, Nam",4,1,1,0,0,0,0,0,0,0,0,0,0,1,2
+8,Regular 10,Hanoi-Buffalos,Can-Tho-Catfish,14,"Bui-Thai, Ha",4,0,2,0,1,0,0,0,0,0,1,0,0,0,0
+9,Regular 10,Hanoi-Buffalos,Can-Tho-Catfish,88,"Nguyen-Quang, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 11,Can-Tho-Catfish,Thang-Long-Warriors,23,"Dinh-Thanh, Tam",39,8,14,3,5,3,3,2,2,0,2,0,4,2,22
+1,Regular 11,Can-Tho-Catfish,Thang-Long-Warriors,1,"Hamilton, DeAngelo",35,6,16,0,5,4,8,6,14,7,3,9,1,3,16
+2,Regular 11,Can-Tho-Catfish,Thang-Long-Warriors,65,"Le-Hieu, Thanh",33,6,16,1,7,5,6,2,4,0,2,0,1,5,18
+3,Regular 11,Can-Tho-Catfish,Thang-Long-Warriors,3,"Nguyen-Phu, Hoang",31,3,11,0,6,4,7,0,5,4,2,0,7,2,10
+4,Regular 11,Can-Tho-Catfish,Thang-Long-Warriors,52,"Nguyen-Hoang, Tu",21,2,3,1,1,2,2,1,7,0,0,0,3,1,7
+5,Regular 11,Can-Tho-Catfish,Thang-Long-Warriors,19,"Dinh-Thanh, Sang",19,4,8,2,2,0,0,1,6,0,0,0,4,4,10
+6,Regular 11,Can-Tho-Catfish,Thang-Long-Warriors,15,"Tang-Minh, Tri",8,1,2,0,0,0,1,0,2,0,1,0,2,1,2
+7,Regular 11,Can-Tho-Catfish,Thang-Long-Warriors,25,"Nguyen-Vu-Binh, Nguyen",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Regular 11,Can-Tho-Catfish,Thang-Long-Warriors,14,"Huynh, Khang",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Regular 11,Can-Tho-Catfish,Thang-Long-Warriors,0,"Nguyen-Thinh, Hung",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+10,Regular 11,Can-Tho-Catfish,Thang-Long-Warriors,18,"Hoang-Minh, Khoa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 11,Thang-Long-Warriors,Can-Tho-Catfish,23,"Allmon, Zach",40,13,31,1,5,8,10,4,16,1,0,0,4,1,35
+1,Regular 11,Thang-Long-Warriors,Can-Tho-Catfish,12,"Young, Justin",38,7,18,0,2,2,3,2,7,4,3,0,4,3,16
+2,Regular 11,Thang-Long-Warriors,Can-Tho-Catfish,0,"Hong-Gia, Lan",29,2,10,0,3,0,0,2,2,4,3,0,2,2,4
+3,Regular 11,Thang-Long-Warriors,Can-Tho-Catfish,83,"Nguyen, Duong",26,2,8,1,2,2,2,0,2,0,3,0,2,4,7
+4,Regular 11,Thang-Long-Warriors,Can-Tho-Catfish,21,"Hoang The, Hien",24,2,8,0,0,2,2,1,3,1,1,0,1,3,6
+5,Regular 11,Thang-Long-Warriors,Can-Tho-Catfish,1,"Nguyen-Xuan, Quoc",16,0,2,0,0,1,2,2,2,0,1,0,1,3,1
+6,Regular 11,Thang-Long-Warriors,Can-Tho-Catfish,6,"Truong-Hoang, Trung",11,1,2,1,2,0,0,0,1,0,0,0,0,1,3
+7,Regular 11,Thang-Long-Warriors,Can-Tho-Catfish,8,"Doan-Nhat, Quang",7,1,3,0,1,0,0,1,0,1,1,0,0,0,2
+8,Regular 11,Thang-Long-Warriors,Can-Tho-Catfish,3,"Nguyen-Thanh, Dat",4,0,1,0,0,0,0,0,1,1,0,0,1,0,0
+9,Regular 11,Thang-Long-Warriors,Can-Tho-Catfish,24,"Mai-Viet, Anh",1,1,1,0,0,0,0,1,0,0,0,0,0,0,2
+10,Regular 11,Thang-Long-Warriors,Can-Tho-Catfish,7,"Dang-Thai, Hung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 11,Danang-Dragons,Hochiminh-City-Wings,44,"January, Anthony",40,6,21,0,4,1,3,2,17,4,3,3,5,4,13
+1,Regular 11,Danang-Dragons,Hochiminh-City-Wings,0,"Nguyen, Horace",38,4,12,3,7,9,11,0,4,2,1,0,4,1,20
+2,Regular 11,Danang-Dragons,Hochiminh-City-Wings,99,"Nguyen-Van, Hung",30,3,6,0,0,1,2,4,5,2,1,0,7,4,7
+3,Regular 11,Danang-Dragons,Hochiminh-City-Wings,68,"Huy-Dai, Dam",26,5,10,1,4,0,0,0,2,3,1,0,0,0,11
+4,Regular 11,Danang-Dragons,Hochiminh-City-Wings,77,"Son-Minh, Tam",24,6,8,3,3,1,2,1,1,2,4,0,2,2,16
+5,Regular 11,Danang-Dragons,Hochiminh-City-Wings,10,"Nguyen Van, Hung",20,4,4,0,0,0,0,2,3,2,0,1,4,4,8
+6,Regular 11,Danang-Dragons,Hochiminh-City-Wings,19,"Tran-Dang, Hien",10,0,0,0,0,0,0,1,0,1,0,0,1,1,0
+7,Regular 11,Danang-Dragons,Hochiminh-City-Wings,4,"Huynh-Thanh, Tam",7,0,2,0,0,0,0,1,1,1,1,0,2,2,0
+8,Regular 11,Danang-Dragons,Hochiminh-City-Wings,69,"Bui-Quoc, Tan",2,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+9,Regular 11,Danang-Dragons,Hochiminh-City-Wings,24,"Ho-Quoc, Truong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 11,Hochiminh-City-Wings,Danang-Dragons,33,"Martin, Wayne",40,10,20,1,6,10,15,5,7,2,9,2,6,4,31
+1,Regular 11,Hochiminh-City-Wings,Danang-Dragons,4,"Nguyen-Quang, Vinh",33,3,10,1,6,2,4,1,10,3,2,0,7,2,9
+2,Regular 11,Hochiminh-City-Wings,Danang-Dragons,19,"Nguyen-Le-Quoc, Cuong",30,0,7,0,3,0,0,2,2,0,1,0,2,3,0
+3,Regular 11,Hochiminh-City-Wings,Danang-Dragons,3,"Soy, Michael",29,2,11,0,6,4,6,2,3,1,0,0,0,1,8
+4,Regular 11,Hochiminh-City-Wings,Danang-Dragons,13,"Pham, Tung",24,1,6,1,4,2,2,1,1,1,0,0,1,3,5
+5,Regular 11,Hochiminh-City-Wings,Danang-Dragons,14,"Nguyen-Ky, Quan",15,4,6,0,1,0,0,3,0,0,1,0,2,2,8
+6,Regular 11,Hochiminh-City-Wings,Danang-Dragons,15,"Tran-Vien, Huan",13,3,6,0,2,0,0,0,1,0,1,0,1,2,6
+7,Regular 11,Hochiminh-City-Wings,Danang-Dragons,12,"Nguyen-Quoc, Thai",4,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+8,Regular 11,Hochiminh-City-Wings,Danang-Dragons,20,"Nguyen-Minh, Chung",3,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+9,Regular 11,Hochiminh-City-Wings,Danang-Dragons,16,"Cao-Dac, Luan",2,1,2,0,0,0,0,0,0,0,0,0,0,1,2
+10,Regular 11,Hochiminh-City-Wings,Danang-Dragons,29,"Vu-Doan-Minh, Phuong",2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 11,Hochiminh-City-Wings,Danang-Dragons,2,"Hoang, Tu",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 11,Danang-Dragons,Saigon-Heat,44,"January, Anthony",40,8,30,2,7,14,17,9,8,1,2,2,5,2,32
+1,Regular 11,Danang-Dragons,Saigon-Heat,0,"Nguyen, Horace",34,3,13,2,9,0,0,2,1,2,0,0,3,3,8
+2,Regular 11,Danang-Dragons,Saigon-Heat,68,"Huy-Dai, Dam",32,1,9,0,8,0,0,4,4,0,0,0,1,2,2
+3,Regular 11,Danang-Dragons,Saigon-Heat,10,"Nguyen-Van, Hung",30,8,11,0,0,0,1,3,4,2,0,1,3,3,16
+4,Regular 11,Danang-Dragons,Saigon-Heat,99,"Nguyen Van, Hung",21,0,5,0,0,0,0,5,1,1,3,0,0,1,0
+5,Regular 11,Danang-Dragons,Saigon-Heat,77,"Son-Minh, Tam",20,0,4,0,3,1,2,0,1,0,3,0,3,1,1
+6,Regular 11,Danang-Dragons,Saigon-Heat,4,"Huynh-Thanh, Tam",9,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+7,Regular 11,Danang-Dragons,Saigon-Heat,19,"Tran-Dang, Hien",5,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+8,Regular 11,Danang-Dragons,Saigon-Heat,69,"Bui-Quoc, Tan",4,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+9,Regular 11,Danang-Dragons,Saigon-Heat,17,"Vu-Viet, Hoang",1,1,1,1,1,0,0,0,0,0,0,0,0,0,3
+10,Regular 11,Danang-Dragons,Saigon-Heat,9,"Tran-Hcu, Rin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Regular 11,Danang-Dragons,Saigon-Heat,24,"Ho-Quoc, Truong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 11,Saigon-Heat,Danang-Dragons,3,"Tavarion, Nix",34,9,15,4,6,2,3,2,8,0,1,1,3,3,24
+1,Regular 11,Saigon-Heat,Danang-Dragons,2,"Nguyen, Richard",32,4,11,1,4,0,0,1,4,2,1,2,2,0,9
+2,Regular 11,Saigon-Heat,Danang-Dragons,7,"Du-Minh, An",28,2,5,0,3,0,0,0,5,3,1,1,3,1,4
+3,Regular 11,Saigon-Heat,Danang-Dragons,11,"Ban-Vo, Kim",27,5,9,3,7,0,0,0,0,3,1,0,2,1,13
+4,Regular 11,Saigon-Heat,Danang-Dragons,30,"Waale, Tim",24,3,5,0,0,1,4,4,2,0,1,0,0,3,7
+5,Regular 11,Saigon-Heat,Danang-Dragons,98,"Trieu-Han, Minh",19,5,9,0,3,1,3,1,3,1,3,0,5,0,11
+6,Regular 11,Saigon-Heat,Danang-Dragons,12,"Nguyen-Huynh, Vinh",16,0,4,0,0,0,0,0,5,1,0,0,2,1,0
+7,Regular 11,Saigon-Heat,Danang-Dragons,52,"Huynh-Vinh, Quang",8,0,1,0,1,0,0,0,0,1,0,0,0,1,0
+8,Regular 11,Saigon-Heat,Danang-Dragons,20,"Kien, Pham-Duc",6,0,1,0,0,2,2,0,0,0,0,0,1,5,2
+0,Regular 12,Hanoi-Buffalos,Hochiminh-City-Wings,6,"Bell, Michael",33,17,23,0,1,2,5,9,15,4,2,4,3,1,36
+1,Regular 12,Hanoi-Buffalos,Hochiminh-City-Wings,2,"Nguyen, Henry",33,2,8,0,5,2,2,0,5,5,1,0,1,2,6
+2,Regular 12,Hanoi-Buffalos,Hochiminh-City-Wings,1,"Dinh-Tien, Cong",30,4,13,0,3,2,4,2,5,9,0,0,2,1,10
+3,Regular 12,Hanoi-Buffalos,Hochiminh-City-Wings,19,"Ngoc, Tran",23,4,8,0,0,0,0,2,4,1,0,1,1,1,8
+4,Regular 12,Hanoi-Buffalos,Hochiminh-City-Wings,11,"Doan, Tung",17,4,8,0,0,1,2,5,3,2,3,0,5,1,9
+5,Regular 12,Hanoi-Buffalos,Hochiminh-City-Wings,12,"Tu Le, Ngoc",17,2,8,0,4,0,0,2,0,1,3,0,2,1,4
+6,Regular 12,Hanoi-Buffalos,Hochiminh-City-Wings,7,"Nguyen Huynh, Hai",17,1,3,0,1,0,0,0,0,0,3,0,8,2,2
+7,Regular 12,Hanoi-Buffalos,Hochiminh-City-Wings,14,"Bui-Thai, Ha",9,1,4,1,2,0,0,0,0,2,0,0,3,0,3
+8,Regular 12,Hanoi-Buffalos,Hochiminh-City-Wings,88,"Nguyen-Quang, Anh",8,0,2,0,1,0,0,1,3,0,0,0,2,1,0
+9,Regular 12,Hanoi-Buffalos,Hochiminh-City-Wings,9,"Do-Xuan, Nam",5,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+10,Regular 12,Hanoi-Buffalos,Hochiminh-City-Wings,29,"Bui Nguyn, Ha",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+0,Regular 12,Hochiminh-City-Wings,Hanoi-Buffalos,19,"Nguyen Le Quoc, Cuong",32,2,7,1,5,0,0,1,3,3,2,0,3,1,5
+1,Regular 12,Hochiminh-City-Wings,Hanoi-Buffalos,4,"Nguyen-Quang, Vinh",31,7,11,1,1,4,5,1,7,6,3,0,6,2,19
+2,Regular 12,Hochiminh-City-Wings,Hanoi-Buffalos,3,"Soy, Michael",30,4,15,2,6,3,4,0,3,1,3,0,3,0,13
+3,Regular 12,Hochiminh-City-Wings,Hanoi-Buffalos,14,"Nguyen-Ky, Quan",20,2,8,0,3,0,1,1,3,2,4,1,3,3,4
+4,Regular 12,Hochiminh-City-Wings,Hanoi-Buffalos,29,"Vu-Doan-Minh, Phuong",18,3,3,0,0,0,0,1,4,0,2,0,0,1,6
+5,Regular 12,Hochiminh-City-Wings,Hanoi-Buffalos,13,"Pham, Tung",16,1,6,0,3,0,0,2,1,1,1,0,1,3,2
+6,Regular 12,Hochiminh-City-Wings,Hanoi-Buffalos,12,"Nguyen-Quoc, Thai",14,1,6,0,1,1,2,1,0,0,1,1,2,1,3
+7,Regular 12,Hochiminh-City-Wings,Hanoi-Buffalos,15,"Le Tran Dang, Huynh",13,4,8,0,1,0,0,1,1,0,2,0,3,1,8
+8,Regular 12,Hochiminh-City-Wings,Hanoi-Buffalos,20,"Nguyen Minh, Chung",13,1,5,0,4,1,2,0,1,1,1,0,3,1,3
+9,Regular 12,Hochiminh-City-Wings,Hanoi-Buffalos,16,"Cao Dac, Luan",6,0,3,0,0,0,0,0,1,0,0,0,0,1,0
+10,Regular 12,Hochiminh-City-Wings,Hanoi-Buffalos,21,"Vo-Duy, Trong",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 12,Danang-Dragons,Saigon-Heat,0,"Nguyen, Horace",38,3,10,2,7,2,2,0,5,2,2,0,6,2,10
+1,Regular 12,Danang-Dragons,Saigon-Heat,44,"January, Anthony",35,11,21,0,1,4,6,3,8,2,0,0,2,1,26
+2,Regular 12,Danang-Dragons,Saigon-Heat,99,"Nguyen Van, Hung",34,7,16,1,1,1,2,2,3,0,0,0,0,5,16
+3,Regular 12,Danang-Dragons,Saigon-Heat,10,"Nguyen Van, Hung",27,5,7,0,0,3,5,0,1,5,0,0,2,5,13
+4,Regular 12,Danang-Dragons,Saigon-Heat,77,"Son-Minh, Tam",26,1,4,1,3,0,0,0,6,2,1,1,1,4,3
+5,Regular 12,Danang-Dragons,Saigon-Heat,19,"Tran-Dang, Hien",20,0,6,0,2,1,2,2,0,1,1,0,0,1,1
+6,Regular 12,Danang-Dragons,Saigon-Heat,69,"Bui-Quoc, Tan",8,1,5,1,3,2,2,0,0,1,1,0,0,0,5
+7,Regular 12,Danang-Dragons,Saigon-Heat,68,"Huy-Dai, Dam",7,0,1,0,1,0,0,0,1,0,0,0,2,0,0
+8,Regular 12,Danang-Dragons,Saigon-Heat,4,"Huynh-Thanh, Tam",1,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+9,Regular 12,Danang-Dragons,Saigon-Heat,9,"Tran-Hcu, Rin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Regular 12,Saigon-Heat,Danang-Dragons,3,"Tavarion, Nix",37,17,25,2,8,2,5,2,14,2,4,1,2,3,38
+1,Regular 12,Saigon-Heat,Danang-Dragons,2,"Nguyen, Richard",31,4,13,0,4,2,2,2,4,5,1,0,1,3,10
+2,Regular 12,Saigon-Heat,Danang-Dragons,30,"Waale, Tim",26,5,8,0,0,1,3,6,1,2,0,0,2,2,11
+3,Regular 12,Saigon-Heat,Danang-Dragons,7,"Du-Minh, An",25,3,9,0,2,0,0,1,3,2,0,1,4,1,6
+4,Regular 12,Saigon-Heat,Danang-Dragons,11,"Ban-Vo, Kim",20,2,7,1,4,2,2,0,0,2,1,0,1,2,7
+5,Regular 12,Saigon-Heat,Danang-Dragons,20,"Kien, Pham-Duc",20,3,8,0,0,0,0,2,4,0,1,0,1,3,6
+6,Regular 12,Saigon-Heat,Danang-Dragons,98,"Trieu-Han, Minh",18,2,6,0,3,2,2,2,3,3,2,0,2,2,6
+7,Regular 12,Saigon-Heat,Danang-Dragons,52,"Huynh-Vinh, Quang",11,1,1,0,0,0,0,0,1,1,1,0,1,1,2
+8,Regular 12,Saigon-Heat,Danang-Dragons,12,"Nguyen-Huynh, Vinh",4,1,2,0,0,0,2,3,2,0,0,1,0,0,2
+0,Semi-Finals 1,Can-Tho-Catfish,Thang-Long-Warriors,23,"Dinh-Thanh, Tam",40,4,13,3,8,2,2,0,5,3,1,0,3,2,13
+1,Semi-Finals 1,Can-Tho-Catfish,Thang-Long-Warriors,1,"Hamilton, DeAngelo",40,4,14,1,8,3,6,5,13,5,2,3,4,3,12
+2,Semi-Finals 1,Can-Tho-Catfish,Thang-Long-Warriors,3,"Nguyen Phu, Hoang",36,10,22,5,11,5,7,1,7,1,0,0,2,0,30
+3,Semi-Finals 1,Can-Tho-Catfish,Thang-Long-Warriors,19,"Dinh-Thanh, Sang",34,3,14,0,5,0,2,2,9,3,0,1,3,3,6
+4,Semi-Finals 1,Can-Tho-Catfish,Thang-Long-Warriors,65,"Le-Hieu, Thanh",30,5,13,1,4,0,0,0,0,4,4,1,1,4,11
+5,Semi-Finals 1,Can-Tho-Catfish,Thang-Long-Warriors,52,"Nguyen-Hoang, Tu",9,0,2,0,1,0,0,0,2,0,1,0,0,2,0
+6,Semi-Finals 1,Can-Tho-Catfish,Thang-Long-Warriors,15,"Tang-Minh, Tri",7,0,3,0,2,1,2,0,1,1,0,1,0,0,1
+7,Semi-Finals 1,Can-Tho-Catfish,Thang-Long-Warriors,8,"Tran-Nguyen, Duong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Semi-Finals 1,Can-Tho-Catfish,Thang-Long-Warriors,14,"Huynh, Khang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Semi-Finals 1,Can-Tho-Catfish,Thang-Long-Warriors,18,"Hoang-Minh, Khoa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Semi-Finals 1,Can-Tho-Catfish,Thang-Long-Warriors,25,"Nguyen-Vu-Binh, Nguyen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Semi-Finals 1,Thang-Long-Warriors,Can-Tho-Catfish,12,"Young, Justin",39,8,15,0,3,2,4,3,8,4,3,0,4,1,18
+1,Semi-Finals 1,Thang-Long-Warriors,Can-Tho-Catfish,3,"Nguyen Thanh, Dat",38,5,17,2,11,3,5,3,16,4,0,0,2,3,15
+2,Semi-Finals 1,Thang-Long-Warriors,Can-Tho-Catfish,23,"Allmon, Zach",37,9,18,0,2,1,1,5,13,0,2,2,2,1,19
+3,Semi-Finals 1,Thang-Long-Warriors,Can-Tho-Catfish,7,"Dang-Thai, Hung",27,4,11,0,0,0,0,1,1,2,1,0,4,2,8
+4,Semi-Finals 1,Thang-Long-Warriors,Can-Tho-Catfish,83,"Nguyen, Duong",19,2,7,0,2,0,0,0,4,1,1,0,1,3,4
+5,Semi-Finals 1,Thang-Long-Warriors,Can-Tho-Catfish,21,"Hoang-The, Hien",13,2,6,0,0,0,0,0,1,0,0,0,1,1,4
+6,Semi-Finals 1,Thang-Long-Warriors,Can-Tho-Catfish,24,"Mai-Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Semi-Finals 1,Thang-Long-Warriors,Can-Tho-Catfish,9,"B?ch Cong, Trung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Semi-Finals 1,Thang-Long-Warriors,Can-Tho-Catfish,6,"Truong-Hoang, Trung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,33,"Martin, Wayne",40,3,11,0,5,1,4,2,8,1,1,3,2,4,7
+1,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,4,"Nguyen-Quang, Vinh",37,3,15,1,5,2,3,1,3,7,2,0,4,0,9
+2,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,19,"Nguyen-Le-Quoc, Cuong",34,3,13,2,7,0,0,0,2,1,4,1,2,3,8
+3,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,3,"Soy, Michael",29,5,11,2,7,0,0,0,1,0,1,0,3,3,12
+4,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,14,"Nguyen-Ky, Quan",23,1,6,0,2,0,0,1,2,0,2,0,4,2,2
+5,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,13,"Pham, Tung",17,2,6,0,2,0,0,1,2,1,0,0,1,2,4
+6,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,12,"Nguyen-Quoc, Thai",7,0,1,0,0,1,2,0,2,0,0,0,0,0,1
+7,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,20,"Nguyen-Minh, Chung",5,1,3,0,1,0,0,0,1,0,2,0,1,0,2
+8,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,29,"Vu-Doan-Minh, Phuong",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,15,"Le-Tran-Dang, Huynh",2,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+10,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,16,"Cao-Dac, Luan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Semi-Finals 1,Hochiminh-City-Wings,Saigon-Heat,1,"Nguyen Quoc, Thanh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Semi-Finals 1,Saigon-Heat,Hochiminh-City-Wings,3,"Tavarion, Nix",39,6,16,2,6,6,8,3,15,1,0,1,2,4,20
+1,Semi-Finals 1,Saigon-Heat,Hochiminh-City-Wings,2,"Nguyen, Richard",37,4,12,2,5,2,2,0,8,7,1,3,6,1,12
+2,Semi-Finals 1,Saigon-Heat,Hochiminh-City-Wings,7,"Du-Minh, An",31,1,4,0,1,0,0,1,2,1,1,0,4,2,2
+3,Semi-Finals 1,Saigon-Heat,Hochiminh-City-Wings,11,"Ban-Vo, Kim",30,7,17,5,11,1,1,0,4,0,1,1,2,3,20
+4,Semi-Finals 1,Saigon-Heat,Hochiminh-City-Wings,30,"Waale, Tim",28,1,2,0,0,1,2,4,3,2,2,0,6,2,3
+5,Semi-Finals 1,Saigon-Heat,Hochiminh-City-Wings,98,"Trieu-Han, Minh",11,1,5,1,2,0,0,2,2,1,0,0,2,1,3
+6,Semi-Finals 1,Saigon-Heat,Hochiminh-City-Wings,20,"Kien, Pham-Duc",9,1,2,0,0,0,0,0,2,0,1,1,1,1,2
+7,Semi-Finals 1,Saigon-Heat,Hochiminh-City-Wings,12,"Nguyen-Huynh, Vinh",5,2,3,0,0,0,0,1,2,0,1,0,2,0,4
+8,Semi-Finals 1,Saigon-Heat,Hochiminh-City-Wings,52,"Huynh-Vinh, Quang",4,0,0,0,0,0,0,0,1,0,1,0,1,2,0
+0,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,33,"Martin, Wayne",40,9,16,2,5,4,4,3,4,3,1,2,6,2,24
+1,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,4,"Nguyen-Quang, Vinh",36,7,17,0,6,7,11,1,4,7,1,0,3,3,21
+2,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,3,"Soy, Michael",33,3,12,1,8,3,3,2,2,2,6,0,3,0,10
+3,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,19,"Nguyen-Le-Quoc, Cuong",32,0,5,0,4,2,2,0,3,0,3,0,4,4,2
+4,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,29,"Vu-Doan-Minh, Phuong",24,3,5,0,0,1,2,4,4,0,1,0,1,3,7
+5,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,13,"Pham, Tung",20,1,3,1,1,2,2,0,1,1,0,1,0,3,5
+6,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,20,"Nguyen-Minh, Chung",9,0,4,0,3,0,0,0,0,0,0,0,0,2,0
+7,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,12,"Nguyen-Quoc, Thai",2,1,1,0,0,0,0,0,0,0,0,0,0,0,2
+8,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,16,"Cao-Dac, Luan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,14,"Nguyen-Ky, Quan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,1,"Nguyen-Quoc, Thanh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Semi-Finals 2,Hochiminh-City-Wings,Saigon-Heat,21,"Vo-Duy, Trong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Semi-Finals 2,Saigon-Heat,Hochiminh-City-Wings,3,"Tavarion, Nix",40,15,21,3,4,4,5,1,10,2,1,2,6,4,37
+1,Semi-Finals 2,Saigon-Heat,Hochiminh-City-Wings,2,"Nguyen, Richard",36,3,8,2,3,2,2,1,2,5,4,1,8,3,10
+2,Semi-Finals 2,Saigon-Heat,Hochiminh-City-Wings,7,"Du-Minh, An",33,3,6,1,3,0,2,1,2,1,3,1,4,2,7
+3,Semi-Finals 2,Saigon-Heat,Hochiminh-City-Wings,11,"Ban-Vo, Kim",27,1,7,1,5,0,0,0,2,0,0,0,4,5,3
+4,Semi-Finals 2,Saigon-Heat,Hochiminh-City-Wings,98,"Trieu-Han, Minh",20,1,4,0,3,0,0,1,1,0,2,0,0,1,2
+5,Semi-Finals 2,Saigon-Heat,Hochiminh-City-Wings,30,"Waale, Tim",16,2,5,0,0,3,7,3,4,1,1,0,1,4,7
+6,Semi-Finals 2,Saigon-Heat,Hochiminh-City-Wings,20,"Kien, Pham-Duc",12,2,3,0,0,0,0,2,2,1,1,0,2,2,4
+7,Semi-Finals 2,Saigon-Heat,Hochiminh-City-Wings,12,"Nguyen-Huynh, Vinh",11,2,5,0,0,0,1,1,0,0,0,0,0,1,4
+8,Semi-Finals 2,Saigon-Heat,Hochiminh-City-Wings,52,"Huynh-Vinh, Quang",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Semi-Finals 2,Can-Tho-Catfish,Thang-Long-Warriors,1,"Hamilton, DeAngelo",40,6,15,2,5,9,13,5,10,5,1,4,1,3,23
+1,Semi-Finals 2,Can-Tho-Catfish,Thang-Long-Warriors,23,"Dinh-Thanh, Tam",40,5,11,5,9,3,4,1,7,2,1,0,4,4,18
+2,Semi-Finals 2,Can-Tho-Catfish,Thang-Long-Warriors,19,"Dinh-Thanh, Sang",36,10,17,3,7,0,0,3,3,4,1,0,1,1,23
+3,Semi-Finals 2,Can-Tho-Catfish,Thang-Long-Warriors,65,"Le-Hieu, Thanh",32,5,19,1,6,1,2,5,3,1,0,1,3,4,12
+4,Semi-Finals 2,Can-Tho-Catfish,Thang-Long-Warriors,3,"Nguyen-Phu, Hoang",32,3,14,0,6,1,4,2,3,0,4,0,4,1,7
+5,Semi-Finals 2,Can-Tho-Catfish,Thang-Long-Warriors,15,"Tang-Minh, Tri",12,0,2,0,1,0,0,1,0,0,2,1,0,1,0
+6,Semi-Finals 2,Can-Tho-Catfish,Thang-Long-Warriors,52,"Nguyen-Hoang, Tu",5,2,4,0,1,0,0,1,0,0,1,0,1,3,4
+7,Semi-Finals 2,Can-Tho-Catfish,Thang-Long-Warriors,14,"Huynh, Khang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Semi-Finals 2,Can-Tho-Catfish,Thang-Long-Warriors,25,"Nguyen-Vu-Binh, Nguyen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Semi-Finals 2,Can-Tho-Catfish,Thang-Long-Warriors,8,"Tran-Nguyen, Duong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Semi-Finals 2,Thang-Long-Warriors,Can-Tho-Catfish,23,"Allmon, Zach",40,8,19,2,3,0,3,10,11,2,4,2,2,1,18
+1,Semi-Finals 2,Thang-Long-Warriors,Can-Tho-Catfish,3,"Nguyen-Thanh, Dat",35,4,12,2,7,1,2,0,7,1,1,0,5,2,11
+2,Semi-Finals 2,Thang-Long-Warriors,Can-Tho-Catfish,12,"Young, Justin",34,5,8,0,0,0,2,0,7,3,0,0,8,5,10
+3,Semi-Finals 2,Thang-Long-Warriors,Can-Tho-Catfish,83,"Nguyen, Duong",26,6,9,1,1,0,0,0,1,0,2,0,5,2,13
+4,Semi-Finals 2,Thang-Long-Warriors,Can-Tho-Catfish,7,"Dang-Thai, Hung",24,6,9,0,0,6,11,2,1,3,1,1,0,4,18
+5,Semi-Finals 2,Thang-Long-Warriors,Can-Tho-Catfish,0,"Hong-Gia, Lan",24,4,13,0,4,0,0,1,2,4,1,0,1,3,8
+6,Semi-Finals 2,Thang-Long-Warriors,Can-Tho-Catfish,21,"Hoang-The, Hien",14,2,3,0,0,0,0,0,2,0,1,1,1,1,4
+7,Semi-Finals 2,Thang-Long-Warriors,Can-Tho-Catfish,24,"Mai-Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Semi-Finals 2,Thang-Long-Warriors,Can-Tho-Catfish,18,"Pham-Thanh, Nam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Semi-Finals 2,Thang-Long-Warriors,Can-Tho-Catfish,9,"B?ch-Cong, Trung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Semi-Finals 2,Thang-Long-Warriors,Can-Tho-Catfish,6,"Truong-Hoang, Trung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Semi-Finals 3,Can-Tho-Catfish,Thang-Long-Warriors,23,"Dinh-Thanh, Tam",40,6,15,5,7,4,6,1,4,3,3,0,6,1,21
+1,Semi-Finals 3,Can-Tho-Catfish,Thang-Long-Warriors,1,"Hamilton, DeAngelo",40,6,13,4,8,3,5,2,12,6,3,1,8,1,19
+2,Semi-Finals 3,Can-Tho-Catfish,Thang-Long-Warriors,19,"Dinh-Thanh, Sang",39,8,18,3,9,1,2,5,3,1,1,0,2,3,20
+3,Semi-Finals 3,Can-Tho-Catfish,Thang-Long-Warriors,3,"Nguyen-Phu, Hoang",37,5,14,2,6,0,0,1,4,2,1,1,1,2,12
+4,Semi-Finals 3,Can-Tho-Catfish,Thang-Long-Warriors,65,"Le-Hieu, Thanh",31,4,11,1,6,0,2,5,5,3,3,0,1,4,9
+5,Semi-Finals 3,Can-Tho-Catfish,Thang-Long-Warriors,15,"Tang-Minh, Tri",7,0,1,0,0,0,0,0,0,1,0,0,2,1,0
+6,Semi-Finals 3,Can-Tho-Catfish,Thang-Long-Warriors,52,"Nguyen-Hoang, Tu",3,0,1,0,1,0,0,1,1,0,0,0,1,2,0
+7,Semi-Finals 3,Can-Tho-Catfish,Thang-Long-Warriors,14,"Huynh, Khang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Semi-Finals 3,Can-Tho-Catfish,Thang-Long-Warriors,18,"Hoang-Minh, Khoa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Semi-Finals 3,Can-Tho-Catfish,Thang-Long-Warriors,25,"Nguyen-Vu-Binh, Nguyen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Semi-Finals 3,Can-Tho-Catfish,Thang-Long-Warriors,8,"Tran-Nguyen, Duong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Semi-Finals 3,Thang-Long-Warriors,Can-Tho-Catfish,12,"Young, Justin",40,9,17,2,5,2,5,1,2,4,3,0,3,3,22
+1,Semi-Finals 3,Thang-Long-Warriors,Can-Tho-Catfish,23,"Allmon, Zach",40,5,12,1,4,0,1,1,11,3,1,1,7,1,11
+2,Semi-Finals 3,Thang-Long-Warriors,Can-Tho-Catfish,3,"Nguyen-Thanh, Dat",35,6,11,4,8,2,2,1,7,4,3,1,1,3,18
+3,Semi-Finals 3,Thang-Long-Warriors,Can-Tho-Catfish,7,"Dang-Thai, Hung",30,3,10,0,0,1,4,1,2,1,2,0,4,1,7
+4,Semi-Finals 3,Thang-Long-Warriors,Can-Tho-Catfish,0,"Hong-Gia, Lan",28,6,13,3,5,2,2,1,0,2,1,0,1,3,17
+5,Semi-Finals 3,Thang-Long-Warriors,Can-Tho-Catfish,83,"Nguyen, Duong",14,1,3,0,1,0,0,0,6,3,1,0,0,1,2
+6,Semi-Finals 3,Thang-Long-Warriors,Can-Tho-Catfish,21,"Hoang-The, Hien",9,1,2,0,0,0,0,0,2,0,0,0,2,1,2
+7,Semi-Finals 3,Thang-Long-Warriors,Can-Tho-Catfish,6,"Truong-Hoang, Trung",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Semi-Finals 3,Thang-Long-Warriors,Can-Tho-Catfish,9,"B?ch-Cong, Trung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Semi-Finals 3,Thang-Long-Warriors,Can-Tho-Catfish,24,"Mai-Viet, Anh",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Finals 1,Can-Tho-Catfish,Saigon-Heat,23,"Dinh-Thanh, Tam",40,8,16,3,7,2,2,1,4,4,2,0,5,1,21
+1,Finals 1,Can-Tho-Catfish,Saigon-Heat,1,"Hamilton, DeAngelo",37,7,10,2,4,6,8,0,9,4,0,4,4,3,22
+2,Finals 1,Can-Tho-Catfish,Saigon-Heat,3,"Nguyen-Phu, Hoang",36,3,9,1,4,1,2,0,9,4,1,2,3,4,8
+3,Finals 1,Can-Tho-Catfish,Saigon-Heat,19,"Dinh-Thanh, Sang",36,1,7,0,4,0,0,1,4,3,2,0,4,2,2
+4,Finals 1,Can-Tho-Catfish,Saigon-Heat,65,"Le-Hieu, Thanh",34,9,13,4,7,1,1,1,8,1,1,0,4,3,23
+5,Finals 1,Can-Tho-Catfish,Saigon-Heat,52,"Nguyen-Hoang, Tu",7,1,4,0,1,0,0,1,4,1,1,0,0,3,2
+6,Finals 1,Can-Tho-Catfish,Saigon-Heat,15,"Tang-Minh, Tri",5,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7,Finals 1,Can-Tho-Catfish,Saigon-Heat,14,"Huynh, Khang",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Finals 1,Can-Tho-Catfish,Saigon-Heat,18,"Hoang-Minh, Khoa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Finals 1,Can-Tho-Catfish,Saigon-Heat,25,"Nguyen-Vu-Binh, Nguyen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Finals 1,Can-Tho-Catfish,Saigon-Heat,8,"Tran-Nguyen, Duong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Finals 1,Saigon-Heat,Can-Tho-Catfish,3,"Nix, Tavarion",40,9,26,2,8,3,3,2,12,2,2,2,2,2,23
+1,Finals 1,Saigon-Heat,Can-Tho-Catfish,2,"Nguyen, Richard",38,11,26,4,11,5,8,0,3,6,4,1,1,0,31
+2,Finals 1,Saigon-Heat,Can-Tho-Catfish,7,"Du-Minh, An",34,0,6,0,0,0,0,4,5,3,1,0,1,5,0
+3,Finals 1,Saigon-Heat,Can-Tho-Catfish,11,"Ban-Vo, Kim",33,5,14,3,8,0,0,4,3,1,3,0,2,3,13
+4,Finals 1,Saigon-Heat,Can-Tho-Catfish,30,"Waale, Tim",19,1,5,0,0,0,0,2,1,0,2,0,2,2,2
+5,Finals 1,Saigon-Heat,Can-Tho-Catfish,20,"Kien, Pham-Duc",14,1,5,0,0,0,0,2,2,0,0,0,2,2,2
+6,Finals 1,Saigon-Heat,Can-Tho-Catfish,98,"Trieu-Han, Minh",11,1,2,0,1,0,0,1,1,0,0,0,1,4,2
+7,Finals 1,Saigon-Heat,Can-Tho-Catfish,12,"Nguyen-Huynh, Vinh",5,1,2,0,0,0,0,2,0,0,0,1,2,1,2
+8,Finals 1,Saigon-Heat,Can-Tho-Catfish,52,"Huynh-Vinh, Quang",2,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+0,Finals 2,Can-Tho-Catfish,Saigon-Heat,23,"Dinh-Thanh, Tam",40,2,10,2,8,1,2,2,4,4,4,0,4,2,7
+1,Finals 2,Can-Tho-Catfish,Saigon-Heat,19,"Dinh-Thanh, Sang",38,11,21,7,12,1,2,1,4,2,2,0,2,4,30
+2,Finals 2,Can-Tho-Catfish,Saigon-Heat,1,"Hamilton, DeAngelo",37,5,11,1,5,6,12,1,12,5,0,0,6,3,17
+3,Finals 2,Can-Tho-Catfish,Saigon-Heat,65,"Le-Hieu, Thanh",31,4,11,1,3,1,3,0,4,3,0,0,2,5,10
+4,Finals 2,Can-Tho-Catfish,Saigon-Heat,3,"Nguyen-Phu, Hoang",27,1,5,0,2,1,2,2,0,1,4,0,5,4,3
+5,Finals 2,Can-Tho-Catfish,Saigon-Heat,15,"Tang-Minh, Tri",15,2,4,1,2,0,0,0,1,1,3,0,1,1,5
+6,Finals 2,Can-Tho-Catfish,Saigon-Heat,52,"Nguyen-Hoang, Tu",7,1,3,0,0,0,0,0,0,0,1,0,0,2,2
+7,Finals 2,Can-Tho-Catfish,Saigon-Heat,14,"Huynh, Khang",2,0,0,0,0,0,0,1,0,0,2,0,0,0,0
+8,Finals 2,Can-Tho-Catfish,Saigon-Heat,18,"Hoang-Minh, Khoa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Finals 2,Can-Tho-Catfish,Saigon-Heat,25,"Nguyen-Vu-Binh, Nguyen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Finals 2,Can-Tho-Catfish,Saigon-Heat,0,"Nguyen Thinh, Hung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Finals 2,Can-Tho-Catfish,Saigon-Heat,8,"Tran-Nguyen, Duong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Finals 2,Saigon-Heat,Can-Tho-Catfish,2,"Nguyen, Richard",39,9,18,3,8,3,6,2,12,6,4,0,8,1,24
+1,Finals 2,Saigon-Heat,Can-Tho-Catfish,7,"Du-Minh, An",32,1,7,0,1,1,2,1,5,7,1,0,7,3,3
+2,Finals 2,Saigon-Heat,Can-Tho-Catfish,30,"Waale, Tim",27,8,10,0,0,1,3,3,1,0,0,0,4,4,17
+3,Finals 2,Saigon-Heat,Can-Tho-Catfish,98,"Trieu-Han, Minh",27,2,11,1,6,0,0,2,2,2,0,0,0,1,5
+4,Finals 2,Saigon-Heat,Can-Tho-Catfish,3,"Nix, Tavarion",24,6,11,2,3,3,3,2,5,1,1,0,3,4,17
+5,Finals 2,Saigon-Heat,Can-Tho-Catfish,11,"Ban-Vo, Kim",16,1,4,1,3,0,0,2,2,0,1,0,1,2,3
+6,Finals 2,Saigon-Heat,Can-Tho-Catfish,12,"Nguyen-Huynh, Vinh",14,3,7,0,0,5,6,3,3,0,0,0,1,0,11
+7,Finals 2,Saigon-Heat,Can-Tho-Catfish,20,"Kien, Pham-Duc",13,0,4,0,0,1,2,3,2,0,1,0,0,3,1
+8,Finals 2,Saigon-Heat,Can-Tho-Catfish,52,"Huynh-Vinh, Quang",5,1,1,1,1,0,0,0,1,2,2,0,0,0,3
+0,Finals 3,Can-Tho-Catfish,Saigon-Heat,65,"Le-Hieu, Thanh",40,7,13,1,3,6,8,0,8,3,2,0,7,3,21
+1,Finals 3,Can-Tho-Catfish,Saigon-Heat,1,"Hamilton, DeAngelo",40,7,13,2,5,4,5,0,12,2,3,5,6,3,20
+2,Finals 3,Can-Tho-Catfish,Saigon-Heat,3,"Nguyen-Phu, Hoang",31,4,8,1,4,0,3,2,6,3,4,0,9,4,9
+3,Finals 3,Can-Tho-Catfish,Saigon-Heat,19,"Dinh-Thanh, Sang",29,3,8,1,2,3,3,2,7,1,3,0,6,3,10
+4,Finals 3,Can-Tho-Catfish,Saigon-Heat,15,"Tang-Minh, Tri",21,1,4,0,0,0,0,0,5,1,0,0,5,2,2
+5,Finals 3,Can-Tho-Catfish,Saigon-Heat,52,"Nguyen-Hoang, Tu",14,1,4,0,2,0,0,0,1,0,0,0,1,2,2
+6,Finals 3,Can-Tho-Catfish,Saigon-Heat,23,"Dinh-Thanh, Tam",11,3,4,0,0,0,0,1,0,0,0,0,2,0,6
+7,Finals 3,Can-Tho-Catfish,Saigon-Heat,14,"Huynh, Khang",11,1,2,0,0,2,2,0,0,0,0,0,0,2,4
+8,Finals 3,Can-Tho-Catfish,Saigon-Heat,25,"Nguyen-Vu-Binh, Nguyen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Finals 3,Can-Tho-Catfish,Saigon-Heat,0,"Nguyen-Thinh, Hung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Finals 3,Can-Tho-Catfish,Saigon-Heat,8,"Tran-Nguyen, Duong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Finals 3,Saigon-Heat,Can-Tho-Catfish,2,"Nguyen, Richard",38,11,28,4,13,0,0,0,4,5,7,1,4,2,26
+1,Finals 3,Saigon-Heat,Can-Tho-Catfish,3,"Nix, Tavarion",34,4,21,2,8,9,9,3,7,3,3,3,4,2,19
+2,Finals 3,Saigon-Heat,Can-Tho-Catfish,7,"Du-Minh, An",33,2,7,1,4,0,0,2,7,3,6,0,5,5,5
+3,Finals 3,Saigon-Heat,Can-Tho-Catfish,98,"Trieu-Han, Minh",31,3,10,1,7,0,0,1,1,3,4,0,2,0,7
+4,Finals 3,Saigon-Heat,Can-Tho-Catfish,30,"Waale, Tim",30,3,7,0,0,3,5,4,2,1,1,0,2,4,9
+5,Finals 3,Saigon-Heat,Can-Tho-Catfish,11,"Ban-Vo, Kim",12,0,2,0,2,0,2,2,0,0,0,0,0,4,0
+6,Finals 3,Saigon-Heat,Can-Tho-Catfish,12,"Nguyen-Huynh, Vinh",10,1,3,0,0,0,0,0,1,0,0,0,1,0,2
+7,Finals 3,Saigon-Heat,Can-Tho-Catfish,20,"Kien, Pham-Duc",4,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+8,Finals 3,Saigon-Heat,Can-Tho-Catfish,52,"Huynh-Vinh, Quang",4,0,2,0,2,0,0,0,0,0,1,0,0,1,0
+0,Finals 5,Can-Tho-Catfish,Saigon-Heat,1,"Hamilton, DeAngelo",39,5,13,0,4,6,9,2,14,2,2,2,4,4,16
+1,Finals 5,Can-Tho-Catfish,Saigon-Heat,19,"Dinh-Thanh, Sang",37,3,10,2,6,2,2,6,5,7,0,0,5,2,10
+2,Finals 5,Can-Tho-Catfish,Saigon-Heat,65,"Le-Hieu, Thanh",36,7,15,3,5,1,1,0,6,4,3,0,2,3,18
+3,Finals 5,Can-Tho-Catfish,Saigon-Heat,23,"Dinh-Thanh, Tam",34,2,10,2,6,0,0,0,2,3,2,0,3,3,6
+4,Finals 5,Can-Tho-Catfish,Saigon-Heat,3,"Nguyen-Phu, Hoang",32,3,13,1,7,2,4,2,4,1,3,0,2,4,9
+5,Finals 5,Can-Tho-Catfish,Saigon-Heat,15,"Tang-Minh, Tri",15,3,9,0,2,0,0,0,0,0,1,0,0,1,6
+6,Finals 5,Can-Tho-Catfish,Saigon-Heat,52,"Nguyen-Hoang, Tu",2,1,1,1,1,0,0,0,1,0,0,0,0,1,3
+7,Finals 5,Can-Tho-Catfish,Saigon-Heat,0,"Nguyen-Thinh, Hung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Finals 5,Can-Tho-Catfish,Saigon-Heat,14,"Huynh, Khang",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Finals 5,Can-Tho-Catfish,Saigon-Heat,18,"Hoang-Minh, Khoa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Finals 5,Can-Tho-Catfish,Saigon-Heat,25,"Nguyen-Vu-Binh, Nguyen",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Finals 5,Can-Tho-Catfish,Saigon-Heat,8,"Tran-Nguyen, Duong",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Finals 5,Saigon-Heat,Can-Tho-Catfish,3,"Nix, Tavarion",40,14,28,1,6,1,7,5,15,4,1,2,7,4,30
+1,Finals 5,Saigon-Heat,Can-Tho-Catfish,2,"Nguyen, Richard",37,6,17,3,8,0,2,1,5,2,4,0,5,2,15
+2,Finals 5,Saigon-Heat,Can-Tho-Catfish,7,"Du-Minh, An",36,2,6,0,4,0,0,0,1,6,2,0,0,2,4
+3,Finals 5,Saigon-Heat,Can-Tho-Catfish,98,"Trieu-Han, Minh",25,4,10,1,4,0,0,3,1,1,0,0,3,2,9
+4,Finals 5,Saigon-Heat,Can-Tho-Catfish,12,"Nguyen-Huynh, Vinh",21,4,7,0,0,1,2,2,4,1,0,2,1,3,9
+5,Finals 5,Saigon-Heat,Can-Tho-Catfish,11,"Ban-Vo, Kim",15,0,4,0,4,0,0,0,1,0,0,0,0,1,0
+6,Finals 5,Saigon-Heat,Can-Tho-Catfish,20,"Kien, Pham-Duc",10,0,1,0,0,0,0,0,2,0,0,0,1,2,0
+7,Finals 5,Saigon-Heat,Can-Tho-Catfish,30,"Waale, Tim",8,1,1,0,0,0,0,2,0,1,1,0,0,5,2
+8,Finals 5,Saigon-Heat,Can-Tho-Catfish,52,"Huynh-Vinh, Quang",5,0,1,0,1,0,0,0,0,0,0,0,0,1,0
