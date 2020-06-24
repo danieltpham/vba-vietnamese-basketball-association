@@ -1,5 +1,5 @@
 # Vietnamese Basketball Association - Data Collection
-This project was done as a personal project.
+This project was done as a personal project. [Updated June 2020: Tableau data visualization available here](https://public.tableau.com/profile/daniel.p2355#!/vizhome/VBA_15929788252590/Main?publish=yes)
 
 #### -- Project Status: Completed December 2019
 
