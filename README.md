@@ -3,9 +3,8 @@ This project was done as a personal project. [Updated June 2020: Tableau data vi
 
 #### -- Project Status: Completed December 2019
 
-## Project Intro
+## [Click here to view Jupyter Notebook](https://github.com/danieltpham/vba-vietnamese-basketball-association/blob/master/Data-Analysis.ipynb)
 ![Banner](https://github.com/danieltpham/vba-vietnamese-basketball-association/blob/master/banner.JPG)
-[Click here to view project output](https://github.com/danieltpham/vba-vietnamese-basketball-association/blob/master/Data-Analysis.ipynb)
 
 ## The Process
 
